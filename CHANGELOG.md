@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.7] - 2025-04-27
+
+### Added
+- Changes in CONTRIBUTION.md
+- Changes in requirements.txt
+
 ## [0.1.6] - 2025-04-27
 
 ## [0.1.5] - 2025-04-27

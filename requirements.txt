@@ -1,0 +1,6 @@
+md2pdf
+openai-whisper
+setuptools-rust
+torch
+TTS
+dotenv
