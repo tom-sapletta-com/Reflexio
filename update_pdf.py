@@ -1,73 +1,62 @@
 import os
+import re
 import markdown
-import html2text
+from markdown.extensions import Extension
+from markdown.preprocessors import Preprocessor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
-from reportlab.lib.enums import TA_LEFT
-from reportlab.lib.fonts import ps2tt, addMapping
+from reportlab.lib.enums import TA_LEFT, TA_CENTER
+from reportlab.platypus.flowables import Flowable
 
 
-def find_font(font_name):
-    # List of possible font paths for Fedora and other systems
-    import glob
-    font_paths = [
-        f'/usr/share/fonts/dejavu-sans-fonts/{font_name}.ttf',
-        f'/usr/share/fonts/dejavu-sans-fonts/{font_name}*.ttf',
-        f'/usr/share/fonts/truetype/dejavu/{font_name}.ttf',
-        f'/usr/share/fonts/{font_name}.ttf',
-        os.path.expanduser(f'~/.local/share/fonts/{font_name}.ttf'),
-    ]
+class HorizontalLine(Flowable):
+    """Custom horizontal line flowable"""
 
-    for path_pattern in font_paths:
-        matching_fonts = [f for f in glob.glob(path_pattern) if os.path.exists(f)]
-        if matching_fonts:
-            return matching_fonts[0]
+    def __init__(self, width=6 * inch, thickness=0.5):
+        Flowable.__init__(self)
+        self.width = width
+        self.thickness = thickness
 
-    raise FileNotFoundError(f"Could not find font {font_name}")
-
-
-def setup_polish_fonts():
-    try:
-        # Explicitly use the full paths we found earlier
-        dejavu_sans = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf'
-        dejavu_sans_bold = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf'
-
-        # Register fonts with ReportLab
-        pdfmetrics.registerFont(TTFont('DejaVuSans', dejavu_sans))
-        pdfmetrics.registerFont(TTFont('DejaVuSans-Bold', dejavu_sans_bold))
-
-        # Explicit font mappings
-        pdfmetrics.registerFontFamily('DejaVuSans',
-                                      normal='DejaVuSans',
-                                      bold='DejaVuSans-Bold',
-                                      italic='DejaVuSans',
-                                      boldItalic='DejaVuSans-Bold'
-                                      )
-    except Exception as e:
-        print(f"Font registration error: {e}")
-        raise
+    def draw(self):
+        """Draw the line"""
+        self.canv.setLineWidth(self.thickness)
+        self.canv.line(0, 0, self.width, 0)
 
 
 def md_to_pdf(md_file, pdf_file):
     # Setup Polish fonts
+    def setup_polish_fonts():
+        try:
+            dejavu_sans = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf'
+            dejavu_sans_bold = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf'
+
+            pdfmetrics.registerFont(TTFont('DejaVuSans', dejavu_sans))
+            pdfmetrics.registerFont(TTFont('DejaVuSans-Bold', dejavu_sans_bold))
+
+            pdfmetrics.registerFontFamily('DejaVuSans',
+                                          normal='DejaVuSans',
+                                          bold='DejaVuSans-Bold',
+                                          italic='DejaVuSans',
+                                          boldItalic='DejaVuSans-Bold'
+                                          )
+        except Exception as e:
+            print(f"Font registration error: {e}")
+            raise
+
+    # Setup fonts
     setup_polish_fonts()
 
     # Read Markdown with proper encoding
     with open(md_file, 'r', encoding='utf-8') as f:
         md_content = f.read()
 
-    # Convert Markdown to HTML
-    html = markdown.markdown(md_content)
-
-    # Convert HTML to plain text
-    h = html2text.HTML2Text()
-    h.ignore_links = False
-    h.body_width = 0  # Disable line wrapping
-    plain_text = h.handle(html)
+    # Advanced Markdown conversion
+    md_extensions = ['extra']
+    html = markdown.markdown(md_content, extensions=md_extensions)
 
     # Create PDF
     doc = SimpleDocTemplate(pdf_file, pagesize=letter,
@@ -77,61 +66,80 @@ def md_to_pdf(md_file, pdf_file):
     # Prepare styles
     styles = getSampleStyleSheet()
 
-    # Custom font settings for styles
+    # Custom styles
     styles['Normal'].fontName = 'DejaVuSans'
     styles['Heading1'].fontName = 'DejaVuSans-Bold'
     styles['Heading2'].fontName = 'DejaVuSans-Bold'
-    styles['Heading3'].fontName = 'DejaVuSans-Bold'
-    styles['Heading4'].fontName = 'DejaVuSans-Bold'
 
-    # Custom style for body text
-    custom_style = ParagraphStyle(
-        'CustomNormal',
+    # Custom italic style
+    italic_style = ParagraphStyle(
+        'ItalicText',
         parent=styles['Normal'],
         fontName='DejaVuSans',
-        alignment=TA_LEFT,
-        fontSize=11,
-        leading=14,
-        spaceAfter=6
+        italic=True,
+        alignment=TA_LEFT
+    )
+
+    # Centered style for subtitle
+    centered_style = ParagraphStyle(
+        'LeftText',
+        parent=styles['Normal'],
+        alignment=TA_LEFT
     )
 
     # Prepare story
     story = []
 
-    # Split text into lines and create paragraphs
+    # Custom parsing of HTML
+    import re
+    from xml.sax.saxutils import unescape
+
+    # Remove HTML tags and unescape entities
+    def clean_text(html_text):
+        # Remove HTML tags
+        clean = re.sub('<.*?>', '', html_text)
+        # Unescape HTML entities
+        clean = unescape(clean)
+        return clean.strip()
+
+    # Parsing logic
     current_section = []
-    last_header_level = 0
 
-    for line in plain_text.split('\n'):
-        # Skip empty lines
-        if line.strip():
-            # Handle headers
-            if line.startswith('#'):
-                header_level = line.count('#')
-                header_text = line.lstrip('#').strip()
+    # Parse HTML to create PDF elements
+    for line in html.split('\n'):
+        if line.startswith('<h1>') or line.startswith('<h2>'):
+            # If we have a previous section, add it to the story
+            if current_section:
+                story.extend(current_section)
+                current_section = []
+                story.append(PageBreak())
 
-                # If we're starting a new H1 or H2, add a page break
-                if header_level <= 2 and current_section:
-                    story.extend(current_section)
-                    story.append(PageBreak())
-                    current_section = []
-
-                # Select appropriate heading style
-                if header_level == 1:
-                    paragraph = Paragraph(header_text, styles['Heading1'])
-                elif header_level == 2:
-                    paragraph = Paragraph(header_text, styles['Heading2'])
-                elif header_level == 3:
-                    paragraph = Paragraph(header_text, styles['Heading3'])
-                else:
-                    paragraph = Paragraph(header_text, styles['Heading4'])
-
-                current_section.append(paragraph)
-                current_section.append(Spacer(1, 12))
+            # Header 1 or 2
+            header_text = clean_text(line)
+            if line.startswith('<h1>'):
+                current_section.append(Paragraph(header_text, styles['Heading1']))
             else:
-                # Regular paragraph
-                current_section.append(Paragraph(line, custom_style))
-                current_section.append(Spacer(1, 6))
+                current_section.append(Paragraph(header_text, styles['Heading2']))
+            current_section.append(Spacer(1, 12))
+
+        elif line.startswith('<p>'):
+            current_paragraph_text = clean_text(line)
+
+            # Check for special formatting
+            if current_paragraph_text.startswith('*') and current_paragraph_text.endswith('*'):
+                # Italic text
+                text = current_paragraph_text.strip('*')
+                current_section.append(Paragraph(text, italic_style))
+            elif current_paragraph_text:
+                # Normal paragraph
+                current_section.append(Paragraph(current_paragraph_text, centered_style))
+
+            current_section.append(Spacer(1, 6))
+
+        elif re.match(r'^<hr\s*/>$', line.strip()):
+            # Horizontal line
+            current_section.append(HorizontalLine())
+            current_section.append(Spacer(1, 6))
 
     # Add the last section
     if current_section:

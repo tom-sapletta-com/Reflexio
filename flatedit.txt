@@ -12,5 +12,14 @@ md2pdf/style.md
 3/8.md
 3/9.md
 4/0.md
-4/okladka.md
-4/poslowie.md
+4/10.md
+4/11.md
+5/0.md
+5/12.md
+5/13.md
+5/14.md
+5/15.md
+6/0.md
+6/EPILOG.md
+#6/okladka.md
+6/poslowie.md
