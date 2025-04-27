@@ -696,15 +696,8 @@ Nie wiedział jeszcze, jak głęboko te różne narracje wpłyną na ich osobist
 
 Ale tego popołudnia, w starej sali seminaryjnej Uniwersytetu Jagiellońskiego, François Lefevre wierzył, że ich projekt może być czymś więcej niż tylko akademickim przedsięwzięciem – że może być mostem między różnymi doświadczeniami, różnymi pamięciami, różnymi Europami.
 
-# Reflexio
+## Reflexio, CZĘŚĆ II: KORZENIE (Retrospekcje)
 
-Tom Sapletta
----
-*Frankfurt, 2025*
-
-
-
-## CZĘŚĆ II: KORZENIE (Retrospekcje)
 
 ### Rozdział 4: Dzieciństwo w cieniu historii
 
@@ -1854,13 +1847,8 @@ Olga zamarła. Pawieł był przyjacielem Siergieja ze studiów, który wyemigrow
 
 Olga usiadła przy stole, czując, jak nogi się pod nią uginają.
 
-# Reflexio
+## Reflexio, CZĘŚĆ III: RELACJE (2025)
 
-Tom Sapletta
----
-*Frankfurt, 2025*
-
-## CZĘŚĆ III: RELACJE (2025)
 
 ### Rozdział 7: Perspektywy
 
@@ -3356,13 +3344,8 @@ François czekał cierpliwie, nie chcąc przerywać jej toku myśli.
 
 – I myślę, że to kwestia autentyczności – powiedziała w końcu. – A raczej jej braku. Przez całe życie adaptowałam się do oczekiwań różnych środowisk. W domu byłam dobra# ZWIERCIADŁA
 
-# Reflexio
+## Reflexio, CZĘŚĆ IV: PRZEMIANY WEWNĘTRZNE (2025)
 
-Tom Sapletta
----
-*Frankfurt, 2025*
-
-## CZĘŚĆ IV: PRZEMIANY WEWNĘTRZNE (2025)
 
 
 

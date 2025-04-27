@@ -8,36 +8,49 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_LEFT
+from reportlab.lib.fonts import ps2tt, addMapping
 
 
 def find_font(font_name):
-    # List of possible font paths
+    # List of possible font paths for Fedora and other systems
     font_paths = [
-        f'/usr/share/fonts/truetype/dejavu/{font_name}.ttf',  # Linux standard
-        f'/usr/local/share/fonts/{font_name}.ttf',
-        f'/Library/Fonts/{font_name}.ttf',  # macOS
+        f'/usr/share/fonts/dejavu-sans-fonts/{font_name}.ttf',
+        f'/usr/share/fonts/dejavu-sans-fonts/{font_name}*.ttf',
+        f'/usr/share/fonts/truetype/dejavu/{font_name}.ttf',
+        f'/usr/share/fonts/{font_name}.ttf',
         os.path.expanduser(f'~/.local/share/fonts/{font_name}.ttf'),
-        os.path.expanduser(f'~/Library/Fonts/{font_name}.ttf')
     ]
 
-    for path in font_paths:
-        if os.path.exists(path):
-            return path
+    for path_pattern in font_paths:
+        matching_fonts = [f for f in glob.glob(path_pattern) if os.path.exists(f)]
+        if matching_fonts:
+            return matching_fonts[0]
 
     raise FileNotFoundError(f"Could not find font {font_name}")
 
 
 def setup_polish_fonts():
-    # Find and register Polish-friendly fonts
-    try:
-        dejavu_sans = find_font('DejaVuSans')
-        dejavu_sans_bold = find_font('DejaVuSans-Bold')
+    import glob
 
+    try:
+        # Explicitly use the full paths we found earlier
+        dejavu_sans = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf'
+        dejavu_sans_bold = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf'
+
+        # Register fonts with ReportLab
         pdfmetrics.registerFont(TTFont('DejaVuSans', dejavu_sans))
         pdfmetrics.registerFont(TTFont('DejaVuSans-Bold', dejavu_sans_bold))
-    except FileNotFoundError:
-        # Fallback to a default font if DejaVu is not found
-        print("Warning: DejaVu fonts not found. Using default fonts.")
+
+        # Explicit font mappings
+        pdfmetrics.registerFontFamily('DejaVuSans',
+                                      normal='DejaVuSans',
+                                      bold='DejaVuSans-Bold',
+                                      italic='DejaVuSans',
+                                      boldItalic='DejaVuSans-Bold'
+                                      )
+    except Exception as e:
+        print(f"Font registration error: {e}")
+        raise
 
 
 def md_to_pdf(md_file, pdf_file):
@@ -65,7 +78,14 @@ def md_to_pdf(md_file, pdf_file):
     # Prepare styles
     styles = getSampleStyleSheet()
 
-    # Custom style for better Markdown rendering with Polish characters
+    # Custom font settings for styles
+    styles['Normal'].fontName = 'DejaVuSans'
+    styles['Heading1'].fontName = 'DejaVuSans-Bold'
+    styles['Heading2'].fontName = 'DejaVuSans-Bold'
+    styles['Heading3'].fontName = 'DejaVuSans-Bold'
+    styles['Heading4'].fontName = 'DejaVuSans-Bold'
+
+    # Custom style for body text
     custom_style = ParagraphStyle(
         'CustomNormal',
         parent=styles['Normal'],
@@ -75,15 +95,6 @@ def md_to_pdf(md_file, pdf_file):
         leading=14,
         spaceAfter=6
     )
-
-    # Modify heading styles to use DejaVuSans
-    try:
-        styles['Heading1'].fontName = 'DejaVuSans-Bold'
-        styles['Heading2'].fontName = 'DejaVuSans-Bold'
-        styles['Heading3'].fontName = 'DejaVuSans-Bold'
-        styles['Heading4'].fontName = 'DejaVuSans-Bold'
-    except Exception:
-        print("Warning: Could not set bold font for headings")
 
     # Prepare story
     story = []
