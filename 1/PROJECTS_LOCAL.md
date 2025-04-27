@@ -9,7 +9,7 @@
 + [2 ### Rozdział 5: Rok 1989](file:///home/tom/github/tom-sapletta-com/Reflexio/2/index.html)
 + [2 ### Rozdział 6: Dojrzewanie w nowym świecie](file:///home/tom/github/tom-sapletta-com/Reflexio/2/index.html)
 + [3 # Reflexio](file:///home/tom/github/tom-sapletta-com/Reflexio/3/index.html)
-+ [3 ](file:///home/tom/github/tom-sapletta-com/Reflexio/3/index.html)
++ [3 ### Rozdział 7: Perspektywy](file:///home/tom/github/tom-sapletta-com/Reflexio/3/index.html)
 + [3 ](file:///home/tom/github/tom-sapletta-com/Reflexio/3/index.html)
 + [3 ](file:///home/tom/github/tom-sapletta-com/Reflexio/3/index.html)
 + [4 ## Posłowie](file:///home/tom/github/tom-sapletta-com/Reflexio/4/index.html)

@@ -1865,7 +1865,6 @@ Tom Sapletta
 
 ## CZĘŚĆ III: RELACJE (2025)
 
-
 ### Rozdział 7: Perspektywy
 
 #### Kraków, wiosna 2025 – Spotkanie męskie
@@ -2166,7 +2165,179 @@ Marta poczuła, jak jej policzki lekko się czerwienią. Wiedziała, że jej kol
 
 – Viktor pewnie siedzi cicho i obserwuje – dokończyła za Ivanę. – Jak zawsze.
 
-– Chyba
+– Chyba że ktoś zagada go o architekturę – dodała Ivana. – Wtedy potrafi mówić godzinami.
+
+– Zauważyłyście, że każdy mężczyzna w naszym zespole jest inny, ale każdy na swój sposób uosabia stereotyp swojego kraju? – zamyśliła się Amelia. – François – intelektualny Francuz z filozoficznym podejściem do życia. Klaus – uporządkowany, dokładny Niemiec. Viktor – nieprzewidywalny, melancholijny Słowianin. A Stefan – polski przedsiębiorca, który przeszedł drogę od niczego do sukcesu.
+
+– A my? – zapytała Olga. – Też jesteśmy stereotypami?
+
+Amelia zawahała się.
+
+– Nie wiem. Może. Ja chyba jestem stereotypem polskiej artystki z burżuazyjnym pochodzeniem.
+
+– A ja bułgarskiej imigrantki, która ciężko pracuje, by udowodnić swoją wartość – dodała Ivana z lekkim uśmiechem.
+
+– Rosyjskiej dysydentki – mruknęła Olga, ale bez gorzkiego tonu.
+
+– A ja? – zapytała Marta, zaciekawiona, jak inne kobiety ją postrzegają.
+
+Nastąpiła chwila ciszy, jakby jej koleżanki zastanawiały się, jak odpowiedzieć.
+
+– Ty jesteś... trudniejsza do zaszufladkowania – powiedziała w końcu Amelia. – Jak psycholog, obserwujesz innych, ale sama pozostajesz nieco tajemnicza.
+
+– To prawda – przytaknęła Ivana. – Czasem mam wrażenie, że analizujesz nas wszystkich, nawet gdy po prostu rozmawiamy przy kawie.
+
+Marta uśmiechnęła się lekko.
+
+– Deformacja zawodowa – przyznała. – Ale zapewniam was, że nie prowadzę tajnego badania psychologicznego. Po prostu... lubię obserwować ludzi.
+
+– A co obserwujesz, patrząc na nas? – zapytała Olga bezpośrednio.
+
+Marta zastanowiła się, ważąc słowa.
+
+– Widzę cztery kobiety, każda z własną historią, własnymi ranami i siłami. Każda niosąca bagaż swojej narodowej historii, ale też swojej osobistej drogi. I każda starająca się zrozumieć, jak te wielkie historyczne procesy, które badamy, wpłynęły na nasze indywidualne życia.
+
+– I co z tego wynika? – dociekała Amelia.
+
+– Że jesteśmy bardziej podobne, niż nam się wydaje – odpowiedziała Marta. – Mimo różnic kulturowych, językowych, historycznych. Wszystkie jesteśmy produktem transformacji, wszystkie zostałyśmy przez nią ukształtowane. I wszystkie próbujemy zrozumieć, co to dla nas znaczy.
+
+Zapadła cisza, każda z kobiet pogrążona we własnych myślach. W tle brzmiała cicha muzyka jazzowa, kawiarnia powoli pustoszała, zostawały w niej ostatnie grupki gości.
+
+– Myślicie, że nasze dzieci będą miały łatwiej? – zapytała nagle Ivana, przerywając ciszę. – Że nie będą już obciążone tym dziedzictwem transformacji?
+
+Amelia spojrzała na nią z zaskoczeniem.
+
+– Masz dzieci, Ivano?
+
+– Nie – pokręciła głową bułgarska lekarka. – Ale czasem się zastanawiam, jak by to było... wychowywać dziecko w tym nowym, posttransformacyjnym świecie.
+
+– Mam wrażenie, że nasze dzieci będą miały własne problemy – odparła Olga. – Inne niż nasze, ale niekoniecznie łatwiejsze. Kryzys klimatyczny, nowe podziały geopolityczne, sztuczna inteligencja zmieniająca rynek pracy... To wszystko stworzy nowe wyzwania.
+
+– Ale przynajmniej nie będą dorastać wśród ruin jednego systemu i chaosu rodzącego się nowego – zauważyła Marta. – Będą mieć większą stabilność, większe bezpieczeństwo.
+
+– Chyba że... – zaczęła Olga, ale urwała, jakby bojąc się dokończyć myśl.
+
+– Chyba że co? – dopytała Amelia.
+
+– Chyba że znów wszystko się zawali – dokończyła Olga cicho. – Historia nie jest liniowa. Nie zawsze zmierza ku lepszemu. Czasem cofa się, wraca do punktu wyjścia, tylko w nowej formie.
+
+Ta myśl zawisła nad nimi jak chmura, rzucając cień na ich wcześniejszy, względnie lekki nastrój.
+
+– Mówisz o Rosji, prawda? – zapytała Marta delikatnie. – O tym, jak demokratyczne nadzieje początku lat 90. ustąpiły miejsca nowemu autorytaryzmowi.
+
+Olga skinęła głową.
+
+– Nie tylko o Rosji. Spójrzcie na Węgry, na tendencje w Polsce, nawet na wzrost skrajnej prawicy we Francji czy w Niemczech. Demokracja nie jest dana raz na zawsze. Może być erodowana, podważana, wymywana powoli, kawałek po kawałku.
+
+– To dość pesymistyczna wizja – zauważyła Amelia.
+
+– Realistyczna – odpowiedziała Olga. – Wierz mi, gdy dorastasz w kraju, który przeszedł drogę od stalinizmu przez odwilż, stagnację, pierestrojkę, chaos lat 90., do nowego autorytaryzmu – uczysz się, że historia nie jest prostą linią. To raczej spirala, powracająca do tych samych punktów, tylko na innych poziomach.
+
+Marta obserwowała twarze swoich koleżanek – zamyślone, poważne, dotknięte tą mniej optymistyczną perspektywą. Postanowiła nieco odwrócić kierunek rozmowy.
+
+– A wasze osobiste historie? – zapytała. – Jak transformacja wpłynęła na wasze kariery, na wasze wybory?
+
+Amelia pierwsza podjęła temat.
+
+– Ja miałam szczęście – przyznała. – Moja rodzina wyszła z transformacji... wzmocniona. Mogłam studiować za granicą, otworzyć własną galerię. Ale zawsze czułam pewien... rozdźwięk między moim osobistym sukcesem a tym, co widziałam wokół siebie. Między moim uprzywilejowaniem a losem tych, którzy stracili na transformacji.
+
+– Dlatego w twojej galerii jest tyle sztuki społecznie zaangażowanej? – zapytała Marta, która była na kilku wystawach w "Transformacji".
+
+Amelia przytaknęła.
+
+– Tak, to moja forma... nie wiem, zadośćuczynienia? Choć to nie ja jestem winna.
+
+– Ciekawe podejście – skomentowała Olga. – W Rosji dzieci oligarchów rzadko mają takie refleksje.
+
+– A twoja historia, Olgo? – zapytała Ivana, wyczuwając, że Amelia czuje się niekomfortowo, gdy rozmowa schodzi na jej rodzinę.
+
+Olga zawahała się.
+
+– To długa i skomplikowana historia – odpowiedziała wymijająco. – Powiedzmy, że w Rosji Putina nie było dla mnie miejsca. Zbyt dużo... konfliktów z systemem.
+
+Marta zauważyła, jak Olga zaciska dłonie na kieliszku, jak jej twarz tężeje, gdy mówi o Rosji. Wyczuwała, że za tą pozornie prostą odpowiedzią kryje się głęboki ból, trauma, której rosyjska tłumaczka nie chciała dzielić z grupą, której jeszcze w pełni nie ufała.
+
+– A ty, Ivano? – zapytała, by odwrócić uwagę od Olgi.
+
+Ivana uśmiechnęła się smutno.
+
+– Moja historia jest typowa dla Bułgarii – odpowiedziała. – Ciężka transformacja, bieda, brak perspektyw. Skończyłam medycynę, ale w kraju, gdzie lekarze zarabiają grosze, gdzie system opieki zdrowotnej jest w ruinie. Więc, jak wielu Bułgarów, wyemigrowałam. Najpierw do Niemiec, potem do Polski.
+
+– I jak ci się tu podoba? – zapytała Amelia z autentycznym zainteresowaniem.
+
+– Polska jest... interesująca – odpowiedziała Ivana dyplomatycznie. – Z jednej strony widzę tu wszystkie zalety transformacji – rozwój gospodarczy, nowoczesną infrastrukturę, członkostwo w Unii. Z drugiej – te same problemy, które znamy z Bułgarii: nierówności, polaryzację społeczeństwa, niezagojone rany historii.
+
+– Ale przynajmniej u nas lekarze są lepiej opłacani – zauważyła Marta.
+
+– To prawda – przytaknęła Ivana. – I pacjenci są bardziej... wymagający. W pozytywnym sensie.
+
+– A twoja historia, Marto? – zapytała Amelia. – Wspominałaś o ojcu opozycjoniście. Jak to wpłynęło na twoją drogę?
+
+Marta przez chwilę milczała, zbierając myśli.
+
+– Dorastałam w rodzinie, gdzie polityka była codziennością – zaczęła. – Ojciec był aresztowany podczas stanu wojennego, matka sama musiała się wszystkim zajmować. Potem, po 1989 roku, ojciec zaangażował się w politykę, został posłem, później wiceministrem. Ale coś się w nim zmieniło. Stał się... odległy. Jakby ta transformacja, o którą walczył, rozczarowała go w jakiś fundamentalny sposób.
+
+– A ty? – dopytywała Ivana. – Ciebie też rozczarowała?
+
+– Nie wiem, czy to właściwe słowo – zastanowiła się Marta. – Raczej... uświadomiła mi złożoność rzeczywistości. To, że nie ma prostych rozwiązań, że każda zmiana ma swoją cenę. I że ta cena często spada na tych, którzy są najsłabsi.
+
+– Dlatego zostałaś psychologiem? – zapytała Olga. – Żeby pomagać tym, którzy tę cenę zapłacili?
+
+Marta uśmiechnęła się lekko.
+
+– Częściowo tak. Ale też, by zrozumieć siebie, moją rodzinę, nasze własne traumy. By nadać sens temu wszystkiemu, co przeżyliśmy.
+
+Wszystkie cztery kobiety siedziały teraz w ciszy, każda zatopiona we własnych wspomnieniach, własnych refleksjach nad drogą, która przywiodła je do tego miejsca, do tego momentu, do tego projektu.
+
+W pewnym momencie Marta spojrzała na zegarek i westchnęła.
+
+– Jest już późno, a jutro mamy prezentację – powiedziała. – Powinnam jeszcze przejrzeć materiały.
+
+– Ja też – przytaknęła Ivana. – Muszę dopracować moje dane z Bułgarii.
+
+Olga i Amelia również przyznały, że czas wracać. Zapłaciły rachunek, zebrały swoje rzeczy i wyszły na Planty – szeroki pas zieleni otaczający krakowskie Stare Miasto w miejscu dawnych murów obronnych.
+
+Noc była chłodna, ale przyjemna. Gwiazdy świeciły jasno nad miastem, które samo wydawało się być żywym świadectwem historii – od średniowiecznej świetności przez upadek, zabory, wojny, komunizm, transformację, aż po teraźniejszość.
+
+– To było dobre spotkanie – powiedziała Amelia, zapinając swój elegancki płaszcz. – Powinnyśmy to powtórzyć.
+
+Pozostałe kobiety zgodziły się, choć każda z innym stopniem entuzjazmu. Marta czuła, że te rozmowy, te wymiany doświadczeń i perspektyw są cenne nie tylko dla ich projektu, ale i dla nich osobiście. Że może, poprzez zrozumienie własnych i cudzych historii, zdołają lepiej pojąć tę wielką transformację, która wszystkie je ukształtowała.
+
+– Idziemy w tę samą stronę? – zapytała Ivana, wskazując w kierunku centrum.
+
+– Ja mieszkam w przeciwną – odpowiedziała Amelia. – W Kazimierzu, blisko mojej galerii.
+
+– Ja z tobą – Olga zwróciła się do Bułgarki. – Mój hotel jest na Grodzkiej.
+
+– A ty, Marto? – zapytała Ivana.
+
+Marta zawahała się.
+
+– Też idę w tamtą stronę – odpowiedziała. – Ale muszę jeszcze... sprawdzić coś w materiałach.
+
+Amelia uśmiechnęła się tajemniczo.
+
+– Oczywiście. "Sprawdzić materiały". O tej porze.
+
+Marta poczuła, jak jej policzki się rumienią, ale nie zaprzeczyła. Podejrzewała, że jej koleżanki domyślają się, iż idzie spotkać się z Viktorem, zwłaszcza po tym, jak odebrała jego telefon podczas rozmowy.
+
+Pożegnały się, rozchodząc w różne strony – Amelia samotnie w kierunku Kazimierza, Ivana i Olga razem w stronę Starego Miasta, a Marta... Marta stała przez chwilę na środku Plant, niepewna, czy rzeczywiście powinna zadzwonić do Viktora. Czy rzeczywiście kłopoty z prezentacją były wystarczającym powodem, by prosić go o pomoc o tak późnej porze.
+
+Wreszcie wyjęła telefon z kieszeni płaszcza i wybrała jego numer.
+
+Kiedy szła przez nocny Kraków, myślała o tym, jak różne były ich doświadczenia – jej, Amelii, Olgi, Ivany. Jak różne drogi przywiodły je do tego momentu, do tego projektu. I jak, mimo tych różnic, wszystkie nosiły w sobie ślady tej samej wielkiej zmiany, która przetoczyła się przez Europę.
+
+Transformacja nie była tylko procesem historycznym, politycznym czy ekonomicznym. Była czymś, co odcisnęło piętno na każdym aspekcie ich życia – od karier, przez relacje, po najgłębsze przekonania i wartości. Była ludzką twarzą historii – z jej nadziejami, rozczarowaniami, triumfami i porażkami.
+
+I może właśnie dlatego ich projekt był tak ważny – bo starał się uchwycić tę ludzką twarz transformacji, te indywidualne historie, które razem tworzyły wielką opowieść o zmianie Europy.
+
+Z tymi myślami Marta dotarła pod adres, który przesłał jej Viktor. Zawahała się przed drzwiami, biorąc głęboki oddech. Potem zapukała, wiedząc, że to spotkanie może być początkiem czegoś nowego – nie tylko w projekcie, ale i w jej życiu osobistym.
+
+Drzwi otworzyły się, ukazując zmęczoną, ale uśmiechniętą twarz Viktora.
+
+– Cieszę się, że przyszłaś – powiedział, wpuszczając ją do środka. – Musimy porozmawiać. Nie tylko o prezentacji.
+
+Marta weszła do mieszkania, czując, jak serce bije jej szybciej. Coś w głosie Viktora, w jego spojrzeniu, mówiło jej, że ta noc może zmienić wszystko. Że ich własna, osobista transformacja właśnie się zaczyna.
 
 
 

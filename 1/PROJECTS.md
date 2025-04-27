@@ -9,7 +9,7 @@
 + [2 ### Rozdział 5: Rok 1989](http://github.com/2)
 + [2 ### Rozdział 6: Dojrzewanie w nowym świecie](http://github.com/2)
 + [3 # Reflexio](http://github.com/3)
-+ [3 ](http://github.com/3)
++ [3 ### Rozdział 7: Perspektywy](http://github.com/3)
 + [3 ](http://github.com/3)
 + [3 ](http://github.com/3)
 + [4 ## Posłowie](http://github.com/4)
