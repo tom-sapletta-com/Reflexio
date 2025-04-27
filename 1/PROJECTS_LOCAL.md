@@ -1,5 +1,5 @@
 + [/home/tom/github/tom-sapletta-com/Reflexio](file:///home/tom/github/tom-sapletta-com/Reflexio/)
-+ [1 # Reflexio](file:///home/tom/github/tom-sapletta-com/Reflexio/1/index.html)
++ [1 ![okladka.png](okladka.png)](file:///home/tom/github/tom-sapletta-com/Reflexio/1/index.html)
 + [md2pdf <style>](file:///home/tom/github/tom-sapletta-com/Reflexio/md2pdf/index.html)
 + [1 ### Rozdział 1: Projekt](file:///home/tom/github/tom-sapletta-com/Reflexio/1/index.html)
 + [1 ### Rozdział 2: Krakowianie i przybysze](file:///home/tom/github/tom-sapletta-com/Reflexio/1/index.html)

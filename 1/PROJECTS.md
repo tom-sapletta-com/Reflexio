@@ -1,5 +1,5 @@
 + [github.com](http://github.com)
-+ [1 # Reflexio](http://github.com/1)
++ [1 ![okladka.png](okladka.png)](http://github.com/1)
 + [md2pdf <style>](http://github.com/md2pdf)
 + [1 ### Rozdział 1: Projekt](http://github.com/1)
 + [1 ### Rozdział 2: Krakowianie i przybysze](http://github.com/1)

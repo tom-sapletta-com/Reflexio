@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.13] - 2025-04-27
+
+### Added
+- Changes in 1/okladka.png
+
+### Changed
+- Changes in okladka.png
+
 ## [0.1.12] - 2025-04-27
 
 ## [0.1.11] - 2025-04-27

@@ -1,4 +1,6 @@
 
+![okladka.png](okladka.png)
+
 # Reflexio
 
 Tom Sapletta
