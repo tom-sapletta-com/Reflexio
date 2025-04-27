@@ -1,3 +1,18 @@
+TTS
+TODO.md
+audiobook_maker
+.idea
+venv
+env
+*.wav
+.wav
+wav
+*.mp3
+.mp3
+mp3
+*.mp4
+.mp4
+mp4
 # Logs
 logs
 *.log
@@ -134,3 +149,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.flatedit.logs.txt
+.flatedit.logs.txt
