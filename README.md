@@ -2339,9 +2339,6 @@ Drzwi otworzyły się, ukazując zmęczoną, ale uśmiechniętą twarz Viktora.
 
 Marta weszła do mieszkania, czując, jak serce bije jej szybciej. Coś w głosie Viktora, w jego spojrzeniu, mówiło jej, że ta noc może zmienić wszystko. Że ich własna, osobista transformacja właśnie się zaczyna.
 
-
-## CZĘŚĆ III: RELACJE (2025)
-
 ### Rozdział 8: Konfrontacje
 
 #### Amelia i François: Sacrum i profanum
@@ -2451,7 +2448,6 @@ Odwróciła się i odeszła szybkim krokiem, zostawiając François samego na ś
 François stał tam przez chwilę, zastanawiając się, co właściwie się stało. Jak ich profesjonalna współpraca, ich rozwijająca się przyjaźń, a może nawet coś więcej, mogły tak szybko zejść na niewłaściwe tory?
 
 I przede wszystkim – czy miał rację, twierdząc, że istnieje rozdźwięk między osobistymi przekonaniami Amelii a jej profesjonalną działalnością? Czy naprawdę ją znał, czy może, jak sugerowała, widział tylko to, co chciał widzieć?
-
 
 Te pytania dręczyły go przez resztę dnia, gdy samotnie wracał do hotelu, a potem siedział w hotelowym barze, wpatrując się w kieliszek wina i rozważając wszystkie niuanse ich relacji, wszystkie momenty, które mogły go zwieść na manowce w interpretacji jej charakteru, jej przekonań, jej wartości.
 
@@ -2735,10 +2731,633 @@ Stefan zaśmiał się, nie urażony.
 
 – Wiem – odpowiedziała poważnie. – Dlatego się zgodziłam na to spotkanie.
 
-Kelnerka podeszła do ich stolika, przerywając moment napięcia. Zamówili kawę – americano dla Stefana, latte dla Olgi.
+Kelnerka podeszła do ich stolika, przerywając moment napięcia. Zamówili kawę – americano dla Stefana, latte dla Olgi – i po kawałku domowego ciasta z rabarbarem.
 
+– Więc – zaczął Stefan, gdy kelnerka odeszła – chciałaś porozmawiać o rozdziale dotyczącym rosyjskich doświadczeń transformacji?
 
+Olga skinęła głową, wyciągając z torby notes i folder z dokumentami.
 
+– Przeczytałam twoją analizę ekonomicznych aspektów rosyjskiej transformacji – powiedziała rzeczowo. – Jest... interesująca. Ale brakuje w niej ludzkiego wymiaru. Tego, jak prywatyzacja lat 90. wpłynęła na zwykłych Rosjan, jak doprowadziła do powstania oligarchii, jak zmieniła rosyjskie społeczeństwo.
+
+Stefan zmarszczył brwi, nieco urażony krytyką. Był dumny ze swojej analizy – opartej na twardych danych, pokazującej liczby, trendy, zależności.
+
+– To była ekonomiczna analiza, nie socjologiczna – zauważył. – Liczby nie kłamią, Olgo. Pokazują obiektywną prawdę o tym, co stało się w Rosji po upadku Związku Radzieckiego.
+
+Olga uśmiechnęła się, ale bez wesołości.
+
+– Liczby mogą nie kłamać, ale mogą być interpretowane na różne sposoby – odpowiedziała. – A niektóre rzeczy nie dają się zredukować do liczb. Jak zmierzysz rozpacz matki, która nagle nie ma za co kupić leków dla dziecka? Jak wymierzysz upokorzenie profesora uniwersytetu, który musi dorabiać jako taksówkarz, by przeżyć?
+
+Stefan westchnął. Wiedział, że Olga ma rację, ale trudno mu było przyznać to otwarcie. Jako biznesmen przyzwyczaił się do myślenia w kategoriach zysków i strat, efektywności, rentowności. Ludzki wymiar gospodarczych procesów rzadko był w centrum jego uwagi.
+
+– Masz rację – przyznał w końcu, zaskakując nieco Olgę. – Moja analiza jest niepełna. Dlatego potrzebuję twojej pomocy, twojej perspektywy.
+
+Olga spojrzała na niego z mieszaniną zaskoczenia i uznania.
+
+– Nie spodziewałam się, że tak łatwo przyznasz mi rację – powiedziała.
+
+– Nie jestem tylko twardym biznesmenem – odpowiedział z lekkim uśmiechem. – Potrafię słuchać, potrafię się uczyć. Zwłaszcza od kogoś, kto doświadczył czegoś, czego ja nie mogłem.
+
+Kelnerka przyniosła ich zamówienie, a oni przez chwilę cieszyli się kawą i ciastem, które rzeczywiście było wyśmienite.
+
+– Więc – podjął Stefan po chwili – opowiedz mi o ludzkim wymiarze rosyjskiej transformacji. Co pamiętasz z tamtego okresu?
+
+Olga odłożyła widelec i zamyśliła się.
+
+– Pamiętam kolejki – powiedziała w końcu. – Długie, ciągnące się przez całe ulice. Ludzie stali godzinami po najbardziej podstawowe produkty. Pamiętam inflację, która zjadała oszczędności mojej babci – całe życie odkładała na emeryturę, a nagle jej pieniądze nie były warte papieru, na którym je wydrukowano.
+
+Stefan słuchał uważnie, widząc, jak twarz Olgi zmienia się, gdy zagłębia się we wspomnienia.
+
+– Pamiętam mojego ojca, inżyniera – kontynuowała. – Stracił pracę, gdy fabryka, w której pracował przez dwadzieścia lat, została sprywatyzowana i zrestrukturyzowana. Przez ponad rok nie mógł znaleźć nowej pracy. Pił, zamknął się w sobie. To zmieniło naszą rodzinę, nasze relacje.
+
+– Podobne historie zdarzały się w Polsce – przyznał Stefan. – Mój ojciec miał szczęście – otworzył własny biznes, który się rozwijał. Ale widziałem wiele rodzin, które cierpiały.
+
+Olga skinęła głową.
+
+– Ale w Rosji było inaczej – powiedziała. – Skala była inna. Bardziej brutalna, bardziej... beznadziejna. W Polsce wciąż był jakiś kierunek, jakiś plan – Unia Europejska, Zachód. W Rosji był tylko chaos, a potem... Putin.
+
+Stefan wyczuł w jej głosie coś więcej – jakieś osobiste doświadczenie, jakieś ukryte cierpienie. Ale nie naciskał, wiedząc, że jeśli Olga zechce, sama podzieli się swoją historią.
+
+– A jak to wpłynęło na rosyjską mentalność? – zapytał zamiast tego. – Na wartości, na podejście do demokracji, do wolnego rynku?
+
+Olga westchnęła.
+
+– To jest właśnie to, czego brakuje w twojej analizie – powiedziała. – Transformacja w Rosji nie tylko zmieniła gospodarkę. Zmieniła duszę narodu. Ludzie, którzy na początku lat 90. wierzyli w demokrację, w wolność, w otwarcie na Zachód, zostali głęboko rozczarowani. Dla wielu Rosjan wolny rynek stał się synonimem oszustwa, nieuczciwości, nierówności. Demokracja kojarzy się z chaosem lat 90., z upadkiem, z upokorzeniem.
+
+– A to tłumaczy popularność Putina – skonstatował Stefan. – Obiecał przywrócić porządek, dumę narodową, stabilność.
+
+– Dokładnie – przytaknęła Olga. – To nie jest tak, że Rosjanie nie rozumieją demokracji, że mają "autorytarną mentalność", jak lubią mówić zachodnie media. Po prostu ich doświadczenie z demokracją i kapitalizmem było brutalne, traumatyczne. A Putin zaoferował im narrację, która nadawała sens ich cierpieniu – "Zachód nas oszukał, upokorzył, a teraz wracamy do dawnej chwały".
+
+Stefan milczał przez chwilę, przetwarzając te informacje. Jako człowiek biznesu, jako ktoś, kto odniósł sukces dzięki transformacji, miał tendencję do postrzegania jej przede wszystkim jako ekonomicznej szansy. Ale perspektywa Olgi przypominała mu, że dla wielu ludzi – w Polsce, w Rosji, w całej Europie Wschodniej – transformacja była przede wszystkim traumą, utratą, dezorientacją.
+
+– A ty? – zapytał w końcu. – Jak transformacja wpłynęła na ciebie osobiście?
+
+Olga zawahała się, jakby zastanawiając się, ile może mu powiedzieć.
+
+– Jestem z pokolenia, które dorastało już w nowej Rosji – odpowiedziała ostrożnie. – Nie pamiętam Związku Radzieckiego. Ale dorastałam w cieniu transformacji – z ojcem, który stracił pracę i poczucie własnej wartości, z matką, która musiała pracować na dwóch etatach, by utrzymać rodzinę. Z dziadkami, których oszczędności zostały zniszczone przez inflację.
+
+– To musiało być trudne – powiedział Stefan cicho.
+
+– Było – przytaknęła Olga. – Ale jednocześnie miałam możliwości, o których moi rodzice nie mogli marzyć. Uczyłam się języków, studiowałam za granicą, podróżowałam. To także było dziedzictwo transformacji – ta wolność, te możliwości.
+
+– A teraz? – dopytywał Stefan. – Jak postrzegasz swoją teraźniejszość, swoją przyszłość?
+
+Olga nagle spoważniała, a jej twarz stała się nieprzenikniona.
+
+– Teraz jestem tutaj – powiedziała wymijająco. – Pracuję nad projektem, który pomaga zrozumieć transformację w całej jej złożoności.
+
+Stefan wyczuł, że dotknął tematu, o którym Olga nie chciała rozmawiać. Jej teraźniejszość, jej status emigrantki, jej relacje z Rosją Putina – to wszystko najwyraźniej było zbyt osobiste, zbyt bolesne.
+
+– Przepraszam – powiedział szczerze. – Nie chciałem być wścibski.
+
+Olga machnęła ręką.
+
+– Nie przepraszaj – odpowiedziała. – To normalne pytania. Po prostu... nie wszystko jestem gotowa opowiedzieć. Jeszcze nie.
+
+– Rozumiem – zapewnił ją Stefan. – Każdy ma swoje granice, swoje tematy, które są zbyt trudne. Uszanuję to.
+
+Olga uśmiechnęła się z wdzięcznością, a w jej oczach pojawił się cień ciepła.
+
+– Dziękuję – powiedziała cicho. – Nie wszyscy to rozumieją.
+
+Stefan odwzajemnił uśmiech, czując, że właśnie przekroczyli jakąś granicę w swojej relacji – od czysto zawodowej znajomości do czegoś głębszego, bardziej osobistego. Nie wiedział jeszcze, czy to przyjaźń, czy coś więcej, ale cieszył się z tego rozwoju.
+
+– Wracając do naszej analizy – powiedział, zmieniając temat – myślę, że powinniśmy ją przepracować razem. Połączyć moje dane ekonomiczne z twoją perspektywą na społeczne i psychologiczne aspekty.
+
+– Z przyjemnością – zgodziła się Olga. – Myślę, że to będzie ciekawa fuzja podejść.
+
+Zaczęli omawiać szczegóły wspólnej pracy, wymieniać pomysły, planować. To było coś, w czym oboje czuli się komfortowo – konkretne, profesjonalne dyskusje. Ale pod powierzchnią tych rzeczowych rozmów płynął niewidoczny prąd – wzajemne zainteresowanie, ciekawość, może nawet początek uczucia.
+
+W pewnym momencie, gdy dyskutowali o wpływie prywatyzacji na strukturę społeczną, Olga pochyliła się nad stołem, by pokazać Stefanowi wykres w swoich notatkach. Jej włosy, zwykle związane, opadły do przodu, prawie dotykając jego dłoni. Stefan poczuł subtelny zapach jej perfum – coś lekkiego, kwiatowego, z nutą cytrusów. Przez chwilę zapomniał, o czym mówili, skupiony na tym zapachu, na bliskości jej ciała.
+
+– Stefan? – zapytała Olga, patrząc na niego pytająco. – Wszystko w porządku?
+
+– Tak, oczywiście – odpowiedział szybko, wracając do rzeczywistości. – Po prostu zamyśliłem się nad tym, co pokazujesz.
+
+Olga patrzyła na niego przez chwilę, jakby nie do końca mu wierzyła, ale nie drążyła tematu. Zamiast tego wróciła do wykładu o nierównościach ekonomicznych w postsowieckiej Rosji.
+
+Gdy ich spotkanie dobiegało końca, a kawa i ciasto zostały dawno zjedzone, Stefan zapytał:
+
+– Czy moglibyśmy kontynuować tę rozmowę przy kolacji? Znam świetną rosyjską restaurację niedaleko stąd.
+
+Olga zawahała się, a na jej twarzy pojawił się cień niepewności.
+
+– Stefan, ja... – zaczęła.
+
+– To nie musi być randka – zapewnił ją szybko. – Tylko kolacja, kontynuacja naszej profesjonalnej dyskusji. Chyba że... chciałabyś, żeby to była randka?
+
+Ostatnie zdanie wypowiedział lżejszym tonem, z lekkim uśmiechem, dając jej możliwość potraktowania tego jako żartu, jeśli nie była zainteresowana.
+
+Olga spojrzała na niego z mieszaniną rozbawienia i zainteresowania.
+
+– Nie jestem pewna, czy rosyjska restauracja to dobry wybór – powiedziała. – Wolałabym coś... neutralnego.
+
+– Włoska? – zaproponował natychmiast.
+
+– Włoska brzmi dobrze – zgodziła się.
+
+– A co do charakteru tego spotkania... – dodała po chwili wahania – może na razie pozostańmy przy profesjonalnej kolacji. Zobaczymy, dokąd to prowadzi.
+
+Stefan przytaknął, zadowolony nawet z takiej odpowiedzi. Nie spodziewał się, że Olga od razu zgodzi się na randkę – była ostrożna, zdystansowana, prawdopodobnie z dobrych powodów. Ale fakt, że zgodziła się na kolację, że nie odrzuciła całkowicie możliwości czegoś więcej w przyszłości, dawał mu nadzieję.
+
+– Doskonale – powiedział, wstając i pomagając jej zebrać notatki. – Zarezerwuję stolik na ósmą?
+
+– Na ósmą będzie idealnie – odpowiedziała, pakując dokumenty do torby.
+
+Gdy wychodzili z kawiarni, Stefan poczuł dziwną lekkość, jakiej nie doświadczał od dawna. Po rozwodzie sprzed pięciu lat, po kilku nieudanych związkach, po latach poświęconych głównie karierze i biznesowi, nagle odkrył, że jest podekscytowany perspektywą poznania kogoś nowego. Kogoś, kto patrzył na świat inaczej niż on, kto miał inne doświadczenia, inną perspektywę.
+
+A Olga, idąca obok niego, również czuła pewne podekscytowanie, choć mieszało się ono z niepokojem. Po tym, co przeszła w Rosji, po stracie Siergieja, po latach samotności w Polsce, perspektywa nowej relacji była równie kusząca, co przerażająca. Ale coś w Stefanie – może jego bezpośredniość, może jego umiejętność słuchania, może ta kombinacja twardego biznesmena i wrażliwego człowieka – sprawiało, że była gotowa zaryzykować, choćby tylko nieco bardziej osobistą rozmowę przy włoskiej kolacji.
+
+– Do zobaczenia o ósmej – powiedziała, zatrzymując się przed księgarnią, gdzie miała coś załatwić przed powrotem do hotelu.
+
+– Do zobaczenia – odpowiedział Stefan, uśmiechając się ciepło.
+
+Gdy odszedł, Olga patrzyła za nim przez chwilę, zastanawiając się, czy nie popełnia błędu. Czy nie wchodzi w relację, która może przynieść więcej bólu niż radości. Czy jest gotowa otworzyć się przed kimś, kto nie może w pełni zrozumieć jej doświadczeń, jej traum, jej lęków.
+
+Ale potem przypomniała sobie, jak uważnie słuchał, jak nie naciskał, gdy wyczuł jej niechęć do mówienia o niektórych tematach. Jak przyznał, że jej perspektywa jest wartościowa, że jego analiza była niepełna bez ludzkiego wymiaru.
+
+Może warto było zaryzykować. Może po latach ukrywania się, unikania bliskości, czas był na nowy początek. Na relację, która mogła być mostem między jej rosyjską przeszłością a polską teraźniejszością, między jej traumami a nadzieją na przyszłość.
+
+Z tą myślą weszła do księgarni, czując, że ten dzień może być początkiem nowego rozdziału w jej życiu.
+
+### Rozdział 9: Kryzysy
+
+#### Powódź
+
+Kraków obudził się pod wodą. 
+
+Kilkudniowe intensywne opady, które nawiedziły południową Polskę w połowie czerwca 2025 roku, doprowadziły do podniesienia się poziomu Wisły i jej dopływów do stanu alarmowego. O świcie wały przeciwpowodziowe na Dębnikach nie wytrzymały naporu wody, która wdarła się na ulice, zalewając piwnice, partery, samochody.
+
+Marta Stawska obudziła się od dźwięku syren alarmowych i natarczywego dzwonienia telefonu. Na wyświetlaczu zobaczyła nazwisko Viktora.
+
+– Marta, gdzie jesteś? – usłyszała jego zaniepokojony głos, gdy tylko odebrała.
+
+– W domu – odpowiedziała, wciąż na wpół senna. – Co się dzieje?
+
+– Powódź – powiedział krótko. – Wisła wylała na Dębnikach. Jesteś bezpieczna?
+
+Marta podeszła do okna i zobaczyła, że ulica przed jej blokiem na Krowodrzy jest sucha. Ta część miasta, położona wyżej, była stosunkowo bezpieczna.
+
+– Tak, u mnie wszystko w porządku – odpowiedziała. – A ty?
+
+– Też jestem bezpieczny, ale mój hotel jest częściowo zalany. Parter stoi w wodzie. Władze organizują ewakuację.
+
+– Przyjedź do mnie – powiedziała bez zastanowienia. – Mam wolny pokój.
+
+Nastąpiła krótka pauza.
+
+– Jesteś pewna? – zapytał Viktor. – Nie chcę się narzucać.
+
+– Jestem pewna – odpowiedziała stanowczo. – Daj mi swój adres, przyjadę po ciebie.
+
+– Nie, zostań w domu – zaprotestował. – Wezmę taksówkę. Ulice są jeszcze przejezdne. Będę za godzinę.
+
+Gdy się rozłączyli, Marta natychmiast zadzwoniła do pozostałych uczestników projektu, by sprawdzić, czy są bezpieczni. Amelia mieszkała na Kazimierzu, dzielnicy położonej tuż nad Wisłą, ale jej mieszkanie znajdowało się na drugim piętrze, więc nie było bezpośrednio zagrożone. François i Klaus mieszkali w tym samym hotelu co Viktor, więc również byli ewakuowani. Stefan miał dom na wzgórzu Wawelskim, powyżej poziomu zalewowego. Ivana mieszkała na wynajętym mieszkaniu w Nowej Hucie, też poza zasięgiem powodzi. Tylko Olga była niedostępna – jej telefon milczał.
+
+Viktor przyjechał punktualnie, jak obiecał. Był przemoczony, z plecakiem zawierającym najpotrzebniejsze rzeczy, które zdążył zabrać z hotelu. Marta natychmiast zaprowadziła go do łazienki, dała czyste ręczniki i zaproponowała gorącą herbatę.
+
+– Dziękuję – powiedział, gdy usiedli w kuchni, pijąc herbatę. – Nie wiem, jak długo to potrwa.
+
+– Zostań tak długo, jak będzie trzeba – odpowiedziała Marta. – Mój dom jest twoim domem.
+
+Viktor uśmiechnął się z wdzięcznością, a Marta poczuła ciepło rozlewające się po jej ciele. To było naturalne – zaoferować mu schronienie, pomoc. Ich relacja w ostatnich tygodniach rozwijała się, pogłębiała, choć wciąż nie dali jej żadnej oficjalnej nazwy. Byli czymś więcej niż przyjaciółmi, ale jeszcze nie parą. Znajdowali się w tej niezręcznej, ale ekscytującej przestrzeni pomiędzy.
+
+– Musimy odwołać dzisiejsze spotkanie projektowe – powiedział Viktor, wracając do profesjonalnego tonu. – Z powodu ewakuacji hotelu, gdzie miało się odbyć.
+
+– Oczywiście – zgodziła się Marta. – Wyślę wszystkim wiadomość. Może zorganizujemy je online?
+
+– Dobry pomysł – przytaknął Viktor. – Choć nie wiem, czy wszyscy będą mieli dostęp do internetu. W niektórych częściach miasta nie ma prądu.
+
+– Może po prostu przełożymy na inny termin – zaproponowała Marta. – W tej chwili bezpieczeństwo jest najważniejsze.
+
+Przygotowywali właśnie śniadanie, gdy zadzwonił telefon Marty. To był François.
+
+– Marta, przepraszam, że przeszkadzam – powiedział, gdy odebrała. – Czy wiesz może, gdzie jest Amelia? Nie mogę się do niej dodzwonić, a woda zalewa Kazimierz.
+
+Marta poczuła, jak jej żołądek się zaciska.
+
+– Rozmawiałam z nią godzinę temu. Była w domu, na drugim piętrze, wydawało się, że jest bezpieczna.
+
+– Teraz stany są wyższe – odpowiedział François z niepokojem w głosie. – Woda dochodzi już do pierwszego piętra w niektórych budynkach. Jadę tam.
+
+– François, to niebezpieczne – zaprotestowała Marta. – Władze odradzają...
+
+– Muszę – przerwał jej. – Muszę się upewnić, że jest bezpieczna.
+
+Zanim zdążyła powiedzieć coś więcej, rozłączył się. Marta spojrzała na Viktora, który słyszał całą rozmowę.
+
+– To szaleństwo – powiedziała. – Jechać w stronę zalewanych dzielnic.
+
+Viktor milczał przez chwilę, jakby zastanawiał się nad czymś.
+
+– Zrobiłbym to samo – powiedział w końcu cicho. – Gdyby chodziło o ciebie.
+
+Ich spojrzenia spotkały się, a Marta poczuła, jak jej serce przyspiesza. To było najbliższe wyznaniu uczuć, jakie kiedykolwiek usłyszała od Viktora.
+
+– Ja też – przyznała, nie odwracając wzroku.
+
+W tym momencie znów zadzwonił telefon. Tym razem był to Stefan.
+
+– Marta, jesteś bezpieczna? – zapytał bez wstępu.
+
+– Tak, jestem w domu, z Viktorem – odpowiedziała. – A ty?
+
+– U mnie wszystko w porządku, ale martwię się o Olgę – powiedział Stefan. – Nie mogę się do niej dodzwonić. Wiesz, gdzie mieszka?
+
+– W hotelu "Europejskim" na Dębnikach – powiedziała Marta, przypominając sobie tę informację z dokumentów projektowych. – Ale to jedna z zalanych dzielnic.
+
+Usłyszała, jak Stefan przeklina pod nosem.
+
+– Jadę tam – powiedział.
+
+– Stefan, nie! – zaprotestowała Marta. – To zbyt niebezpieczne. Władze prowadzą ewakuację, na pewno się nią zajmą.
+
+– Nie mogę czekać – odpowiedział stanowczo. – Muszę wiedzieć, czy jest bezpieczna.
+
+I podobnie jak François, rozłączył się, nie czekając na jej odpowiedź. Marta spojrzała na Viktora z niedowierzaniem.
+
+– Co się dzieje z tymi mężczyznami? – zapytała. – Obaj rzucają się w niebezpieczeństwo dla kobiet, które ledwo znają.
+
+Viktor uśmiechnął się lekko.
+
+– Myślę, że znają je lepiej, niż sądzisz – powiedział. – I chyba nie tylko oni rozwinęli... głębsze relacje w naszym zespole.
+
+Marta zarumieniła się, wiedząc, że mówi również o nich. Ich własna relacja, rozwijająca się powoli, ostrożnie, nagle wydała się bardziej realna, bardziej namacalna w kontekście kryzysu.
+
+– Martwię się o nich wszystkich – przyznała, zmieniając temat. – François, Stefan, Amelia, Olga... Co jeśli naprawdę są w niebezpieczeństwie?
+
+– Zaufaj im – powiedział Viktor, kładąc dłoń na jej ramieniu. – François i Stefan to dorośli, odpowiedzialni mężczyźni. Znajdą sposób, by pomóc Amelii i Oldze, nie ryzykując niepotrzebnie.
+
+Marta przytaknęła, choć nie była przekonana. Kryzys często wydobywał z ludzi zarówno to, co najlepsze, jak i to, co najmniej racjonalne.
+
+Włączyli telewizor, by śledzić informacje o powodzi. Sytuacja była poważna – woda wciąż się podnosiła, kolejne dzielnice były zalewane, władze organizowały ewakuację, służby ratunkowe pracowały na pełnych obrotach.
+
+Przez kolejne godziny Marta i Viktor wymieniali wiadomości i rozmowy telefoniczne z pozostałymi członkami zespołu, próbując koordynować przepływ informacji. François dotarł do Amelii – była bezpieczna, choć jej mieszkanie zostało częściowo zalane. Ewakuowali się razem do schroniska zorganizowanego przez miasto w jednej ze szkół na wzgórzu. Klaus znalazł zakwaterowanie u znajomego profesora z uniwersytetu. Ivana zgłosiła się na ochotnika do pomocy medycznej w punktach ewakuacyjnych.
+
+Tylko o Stefanie i Oldze wciąż nie było wieści.
+
+– Powinniśmy coś zrobić – powiedziała Marta, nie mogąc dłużej siedzieć bezczynnie. – Może pojechać ich szukać?
+
+– To nie jest dobry pomysł – odpowiedział Viktor. – Tylko byśmy przeszkadzali służbom ratunkowym. Najlepsze, co możemy zrobić, to zostać tutaj i być dostępni, gdyby potrzebowali pomocy.
+
+Marta wiedziała, że ma rację, ale trudno jej było siedzieć bezczynnie, gdy jej przyjaciele mogli być w niebezpieczeństwie. Viktor, widząc jej niepokój, zaproponował, że zrobią obiad, by zająć czymś ręce i myśli.
+
+Pracowali razem w kuchni, przygotowując prostą zupę i sałatkę, gdy w końcu zadzwonił telefon Marty. To był Stefan.
+
+– Marta – jego głos brzmiał inaczej niż zwykle, jakiś przytłumiony, zmęczony. – Znaleźliśmy Olgę. Jest... bezpieczna, ale w szoku. Hotel był zalany, musiała uciekać przez okno. Jakiś mężczyzna pomógł jej dopłynąć do wyższego terenu na pontonie.
+
+– Dzięki Bogu – westchnęła Marta z ulgą. – Gdzie jesteście teraz?
+
+– W punkcie ewakuacyjnym na Salwatorze – odpowiedział. – Olga jest pod opieką medyczną. Fizycznie jest OK, ale psychicznie... To wyzwoliło jakieś stare traumy. Mówi coś po rosyjsku, płacze. Lekarze dali jej środki uspokajające.
+
+Marta czuła, jak jej profesjonalne, psychologiczne ja przejmuje kontrolę.
+
+– Czy ma gdzieś się podziać, gdy ją wypuszczą? – zapytała rzeczowo.
+
+– Jeszcze nie wiem – przyznał Stefan. – Jej hotel jest niedostępny, wszystkie jej rzeczy przepadły.
+
+– Przyprowadź ją do mnie – zaproponowała Marta. – Mam wolną kanapę w salonie. Ty też możesz zostać, jeśli potrzebujesz.
+
+Nastąpiła chwila ciszy.
+
+– Dziękuję, Marta – powiedział w końcu Stefan, a w jego głosie brzmiała autentyczna wdzięczność. – To wiele dla mnie znaczy. Dla nas.
+
+– Kiedy możemy was oczekiwać? – zapytała, już planując w myślach reorganizację mieszkania.
+
+– Za jakieś dwie godziny, jeśli drogi będą przejezdne – odpowiedział. – Olga musi jeszcze przejść badania. Upewnię się, że wszystko z nią w porządku, zanim ruszymy.
+
+– Przygotuję wszystko – zapewniła go Marta. – Bądźcie ostrożni.
+
+Gdy się rozłączyli, Marta spojrzała na Viktora, który słyszał jej część rozmowy.
+
+– Stefan przyprowadzi Olgę – wyjaśniła. – Jest bezpieczna, ale w szoku. Straciła wszystkie rzeczy w hotelu.
+
+Viktor pokiwał głową ze zrozumieniem.
+
+– To musi być traumatyczne – powiedział. – Zwłaszcza dla kogoś, kto już przeżył utratę i musiał zaczynać od nowa.
+
+Marta spojrzała na niego zaskoczona.
+
+– Co masz na myśli?
+
+Viktor zawahał się, jakby zastanawiając się, czy powinien powiedzieć więcej.
+
+– Słyszałem od Ivany, że Olga opuściła Rosję w pośpiechu, zostawiając prawie wszystko. Że musiała uciekać z powodów politycznych.
+
+Marta nie wiedziała o tym. Olga nigdy nie mówiła otwarcie o powodach swojej emigracji, a Marta, szanując jej prywatność, nie pytała. Ale ta nowa informacja rzucała nowe światło na reakcję Olgi na powódź – na jej szok, jej załamanie.
+
+– Musimy być dla niej wsparciem – powiedziała, bardziej do siebie niż do Viktora. – Bez naciskania, bez pytań, jeśli nie będzie gotowa odpowiadać.
+
+Viktor przytaknął, rozumiejąc.
+
+– Pomogę ci przygotować mieszkanie – zaproponował. – Potrzebujemy dodatkowych koców, pościeli?
+
+– Tak, w szafie w korytarzu powinny być zapasowe – odpowiedziała Marta, wdzięczna za jego praktyczne podejście.
+
+Przez następne dwie godziny przygotowywali mieszkanie na przyjęcie gości – Marta oddała swoją sypialnię Oldze, sama planując spać w gabinecie na rozkładanym łóżku. Viktor miał pokój gościnny, a dla Stefana przygotowali kanapę w salonie. Ugotowali więcej zupy, zrobili kanapki, przygotowali zapas wody pitnej, na wypadek gdyby dostawy zostały przerwane.
+
+Gdy Stefan i Olga w końcu dotarli, było już późne popołudnie. Olga wyglądała jak cień samej siebie – blada, z podkrążonymi oczami, w zbyt dużych ubraniach, które musiały być pożyczone od kogoś z punktu ewakuacyjnego. Stefan podtrzymywał ją delikatnie za łokieć, jakby bał się, że może upaść.
+
+– Wejdźcie, proszę – powitała ich Marta, prowadząc do środka.
+
+– Dziękuję, że nas przyjmujesz – powiedział Stefan, a w jego oczach było coś, czego Marta nigdy wcześniej nie widziała – rodzaj bezbronności, troski, która kontrastowała z jego zwykłą pewną siebie postawą biznesmena.
+
+Olga próbowała się uśmiechnąć, ale wychodził jej tylko grymas.
+
+– Przepraszam za kłopot – powiedziała cicho, z silniejszym niż zwykle rosyjskim akcentem.
+
+– Żaden kłopot – zapewniła ją Marta. – Jesteśmy zespołem, prawda? Wspieramy się nawzajem.
+
+Viktor przywitał ich skinieniem głowy, nie narzucając się, wyczuwając, że Olga potrzebuje przestrzeni.
+
+– Przygotowałam ci moją sypialnię – powiedziała Marta do Olgi. – Możesz się położyć, odpocząć. Mam też kilka rzeczy, które powinny na ciebie pasować, jeśli chcesz się przebrać.
+
+– Dziękuję – odpowiedziała Olga, a w jej oczach pojawiły się łzy. – Przepraszam, ja... nie spodziewałam się...
+
+– Nie przepraszaj – przerwała jej łagodnie Marta. – Każdy potrzebuje czasem pomocy. Dziś ty, jutro może ja.
+
+Stefan odprowadził Olgę do sypialni, a Marta i Viktor zostali sami w salonie.
+
+– Jest w gorszym stanie, niż się spodziewałam – szepnęła Marta.
+
+– To więcej niż szok powodziowy – odpowiedział równie cicho Viktor. – To jakby otworzyły się stare rany.
+
+Stefan wrócił po kilku minutach, wyglądając na wyczerpanego. Usiadł ciężko na kanapie, przecierając twarz dłońmi.
+
+– Zasnęła – powiedział. – Lekarz dał jej środki nasenne, powinny działać przez kilka godzin.
+
+– Co się dokładnie stało? – zapytała Marta, podając mu kubek gorącej herbaty.
+
+Stefan westchnął, zbierając myśli.
+
+– Kiedy dotarłem do hotelu, ewakuacja już trwała. Olgi nie było na liście ewakuowanych. Jeden z pracowników powiedział, że część gości wyszła sama, więc pomyślałem, że może już jest bezpieczna. Ale coś mi mówiło, że powinienem sprawdzić. – Urwał, biorąc łyk herbaty. – Znalazłem ją w punkcie medycznym na Salwatorze. Jakiś mężczyzna przywiózł ją tam pontonem. Była przemoczona, w szoku. Mówiła coś po rosyjsku, płakała. Lekarka powiedziała, że to może być reakcja na traumę, że powódź mogła wywołać wspomnienia jakiegoś wcześniejszego traumatycznego doświadczenia.
+
+Marta przytaknęła. Jako psycholog wiedziała, że kryzys często wyzwalał wcześniejsze, niezaleczone traumy.
+
+– To była trauma emigracji – powiedział Viktor cicho. – Utrata wszystkiego, ucieczka, konieczność zaczynania od nowa.
+
+Stefan spojrzał na niego zaskoczony.
+
+– Skąd wiesz?
+
+– Domyślam się – odpowiedział Viktor. – Wielu Ukraińców przeszło przez to samo. Ucieczka przed wojną, zostawienie wszystkiego, niepewność, czy kiedykolwiek będą mogli wrócić.
+
+Stefan milczał przez chwilę, przetwarzając tę informację.
+
+– Olga nigdy nie mówiła, dlaczego wyjechała z Rosji – powiedział w końcu. – Wspominała tylko, że w Rosji Putina nie było dla niej miejsca.
+
+– Zapewne ma ku temu powody – zauważyła Marta. – Niektóre historie są zbyt bolesne, by je opowiadać. Niektóre mogą być nawet niebezpieczne do opowiedzenia.
+
+Siedzieli w ciszy, każde pogrążone we własnych myślach. Na zewnątrz deszcz w końcu ustał, ale sytuacja wciąż była krytyczna – poziom wody podnosił się, kolejne dzielnice były zalewane, służby ratunkowe pracowały niestrudzenie.
+
+– Pójdę sprawdzić, co z Amelią i François – powiedział w końcu Viktor, wstając. – Musimy wiedzieć, czy czegoś potrzebują.
+
+Gdy wyszedł do kuchni, by zadzwonić, Stefan spojrzał na Martę z powagą.
+
+– Dziękuję – powiedział cicho. – Nie tylko za dach nad głową, ale za... zrozumienie. Za nie zadawanie zbyt wielu pytań.
+
+Marta uśmiechnęła się łagodnie.
+
+– To część mojej pracy – odpowiedziała. – Jako psycholog wiem, kiedy dać ludziom przestrzeń, a kiedy naciskać.
+
+– To więcej niż praca – zaprotestował Stefan. – To... dobroć. Empatia. Nie każdy ją ma.
+
+Marta zarumieniła się lekko, słysząc niemal echo słów, które Viktor powiedział jej wcześniej tego dnia.
+
+– Jak długo znasz Olgę? – zapytała, zmieniając temat. – Poza projektem, mam na myśli.
+
+Stefan zawahał się.
+
+– Kilka miesięcy – przyznał. – Spotykaliśmy się nieformalnie, jako znajomi. Ale ostatnio... to zaczęło się zmieniać w coś więcej.
+
+– I dlatego pojechałeś jej szukać, mimo niebezpieczeństwa – stwierdziła Marta, nie pytając.
+
+Stefan przytaknął, a na jego twarzy pojawił się wyraz, którego Marta nigdy u niego nie widziała – mieszanina troski, niepewności i czegoś, co mogło być zakochaniem.
+
+– Nie mogłem jej tam zostawić – powiedział po prostu. – Nie mogłem siedzieć bezpiecznie w domu, wiedząc, że ona może być w niebezpieczeństwie.
+
+– Rozumiem – odpowiedziała Marta, i naprawdę rozumiała. Sama czuła ulgę, wiedząc, że Viktor jest bezpieczny, pod jej dachem. Że nie musi się o niego martwić.
+
+Viktor wrócił do salonu.
+
+– Amelia i François są w schronisku w liceum na wzgórzu Wawelskim – poinformował ich. – Są bezpieczni, ale Amelia straciła prawie wszystko, co miała w mieszkaniu. Woda zalała jej parter i pierwsze piętro.
+
+– A jej galeria? – zapytała Marta, wiedząc, jak ważna była dla Amelii.
+
+– Też zalana – odpowiedział Viktor ponuro. – Większość dzieł udało się uratować, ale sam budynek jest poważnie uszkodzony.
+
+Stefan pokręcił głową ze współczuciem.
+
+– Kiedy to wszystko się skończy, musimy pomóc im obojgu – powiedział. – Amelia będzie potrzebowała wsparcia przy odbudowie galerii.
+
+– A Olga będzie potrzebowała wszystkiego – dodała Marta. – Od ubrań po nowe mieszkanie.
+
+– Pomogę jej – powiedział Stefan stanowczo. – Finansowo, logistycznie, jakkolwiek będzie trzeba.
+
+Marta i Viktor wymienili spojrzenia. Ten kryzys, ta powódź, stała się katalizatorem, ujawniającym ukryte uczucia, przyspieszającym rozwój relacji, które dotąd kiełkowały powoli, ostrożnie.
+
+Nagle z sypialni dobiegł ich krzyk. Olga. Wszyscy troje zerwali się na równe nogi i pobiegli do pokoju.
+
+Olga siedziała na łóżku, blada jak ściana, z szeroko otwartymi oczami pełnymi przerażenia.
+
+– Siergiej! – krzyknęła po rosyjsku. – Gdie Siergiej? On utopitsa!
+
+Stefan natychmiast usiadł obok niej, biorąc jej dłonie w swoje.
+
+– Olga, to ja, Stefan – powiedział łagodnie. – Jesteś bezpieczna. Miałaś zły sen.
+
+Olga patrzyła na niego przez chwilę niewidzącym wzrokiem, po czym powoli wróciła do rzeczywistości. Jej oddech uspokoił się, napięcie w ciele zelżało.
+
+– Stefan – powiedziała cicho, tym razem po polsku. – Przepraszam. Miałam... koszmar.
+
+– Nic się nie stało – zapewnił ją, nie wypuszczając jej dłoni. – Jestem tutaj. Wszyscy jesteśmy.
+
+Marta i Viktor stali w drzwiach, niepewni, czy powinni zostać, czy dać im prywatność. W końcu Marta zdecydowała.
+
+– Przygotuję ci herbatę, Olga – powiedziała ciepło. – A może jesteś głodna? Mamy zupę.
+
+Olga pokręciła głową.
+
+– Tylko herbatę, proszę – odpowiedziała. – I... czy możecie zostać na chwilę? Wszyscy. Nie chcę być sama.
+
+– Oczywiście – zapewnił ją Viktor, wchodząc głębiej do pokoju i siadając na krześle przy biurku.
+
+Marta poszła do kuchni przygotować herbatę, a gdy wróciła, zastała Olgę siedzącą na łóżku, otuloną kocem, ze Stefanem u boku. Viktor stał przy oknie, patrząc na deszczowy Kraków.
+
+– Proszę – powiedziała, podając kubek Oldze. – Z miodem i cytryną, dobrze?
+
+Olga przytaknęła z wdzięcznością, biorąc kubek drżącymi dłońmi. Przez chwilę w pokoju panowała cisza, przerywana tylko odgłosem deszczu uderzającego o szyby.
+
+– Muszę wam coś powiedzieć – powiedziała w końcu Olga, patrząc na herbatę zamiast na nich. – Powinniście wiedzieć, z kim mieszkacie pod jednym dachem.
+
+– Olga, nie musisz... – zaczął Stefan, ale przerwała mu delikatnym gestem.
+
+– Muszę – powiedziała stanowczo. – Po tym, co dla mnie zrobiliście, zasługujecie na prawdę.
+
+Odstawiła kubek na stolik nocny i wzięła głęboki oddech.
+
+– Wyjechałam z Rosji w 2015 roku, po aresztowaniu mojego partnera, Siergieja – zaczęła, a jej głos był cichy, ale pewny. – Był dziennikarzem śledczym, pisał o korupcji, o wojnie w Ukrainie, o zbrodniach reżimu. Ja tłumaczyłam jego artykuły na angielski, francuski, niemiecki. Pewnego dnia przyszli po niego. Zarzuty: zdrada stanu, szpiegostwo, antyrosyjska propaganda.
+
+Viktor, stojący przy oknie, drgnął nieznacznie na te słowa.
+
+– Mnie nie aresztowali – kontynuowała Olga. – Może dlatego, że byłam tylko tłumaczką, może czekali na więcej dowodów. Przyjaciele ostrzegli mnie, że jestem na liście do zatrzymania. Miałam dwadzieścia cztery godziny, by wyjechać.
+
+– I zostawiłaś wszystko – powiedziała cicho Marta.
+
+Olga przytaknęła.
+
+– Wszystko. Dom, pracę, przyjaciół, rodzinę. Wzięłam tylko paszport, trochę pieniędzy, laptop z najważniejszymi dokumentami. Wyjechałam do Finlandii, potem do Polski. Zaczęłam od nowa. Nowa tożsamość, nowa praca, nowe życie.
+
+– A Siergiej? – zapytał Viktor, choć coś w jego tonie sugerowało, że domyślał się odpowiedzi.
+
+Olga spojrzała na niego, a w jej oczach był stary ból.
+
+– Zmarł w więzieniu w 2017 roku – powiedziała, a jej głos lekko zadrżał. – Oficjalnie: zawał serca. Nieoficjalnie: został zamordowany.
+
+W pokoju zapadła cisza. Nikt nie wiedział, co powiedzieć wobec tak głębokiego cierpienia, tak niepojętej straty.
+
+– Kiedy zobaczyłam wodę wlewającą się do hotelu – kontynuowała Olga – coś we mnie pękło. Znowu musiałam uciekać, znowu zostawiać wszystko. To jak... jak koszmar, który się powtarza.
+
+Stefan objął ją ramieniem, przyciskając do swojego boku w geście ochrony i wsparcia.
+
+– Tym razem nie jesteś sama – powiedział cicho. – Masz nas.
+
+Olga oparła głowę na jego ramieniu, zamykając oczy.
+
+– Dziękuję – szepnęła. – Wszystkim wam.
+
+Viktor podszedł do łóżka i stanął przed Olgą, patrząc na nią intensywnie.
+
+– Przekażę ci wiadomość od mojej matki – powiedział po rosyjsku. – Powiedziałaby: "Wytrzymałaś więcej, niż ktokolwiek powinien. Jesteś silniejsza, niż myślisz. I zasługujesz na szczęście, nawet jeśli trudno ci w to uwierzyć."
+
+Olga spojrzała na niego zaskoczona, a potem jej twarz rozjaśnił słaby uśmiech.
+
+– Twoja matka brzmi jak mądra kobieta – odpowiedziała, również po rosyjsku.
+
+– Jest – przytaknął Viktor z własnym uśmiechem. – I miałaby rację.
+
+Marta, która nie rozumiała ich wymiany zdań, poczuła mimo to ciepło na widok tej solidarności, tego mostu między Ukraińcem a Rosjanką – mostu zbudowanego na wspólnym doświadczeniu utraty, ucieczki, budowania życia na nowo.
+
+– Myślę, że powinniśmy pozwolić Oldze odpocząć – powiedziała łagodnie. – Ale jesteśmy tuż obok, gdybyś czegokolwiek potrzebowała.
+
+Olga przytaknęła z wdzięcznością.
+
+– Chciałabym jeszcze chwilę porozmawiać ze Stefanem – powiedziała. – Jeśli to nie problem.
+
+– Oczywiście – odpowiedziała Marta, kierując się do drzwi. – Weź tyle czasu, ile potrzebujesz.
+
+Viktor podążył za nią, zamykając za sobą drzwi sypialni i zostawiając Stefana i Olgę sam na sam.
+
+Gdy wrócili do salonu, Viktor usiadł ciężko na kanapie, a na jego twarzy malowało się zmęczenie i smutek.
+
+– To musiało być dla ciebie trudne – powiedziała Marta, siadając obok niego. – Słuchać jej historii, wiedząc, że to twój kraj...
+
+– To nie mój kraj wypędził Olgę – przerwał jej Viktor, a w jego głosie brzmiała gorycz. – To reżim Putina. To nie to samo.
+
+Marta skinęła głową, rozumiejąc to rozróżnienie.
+
+– Przepraszam – powiedziała. – Nie chciałam zrównywać.
+
+Viktor westchnął, a napięcie opuściło jego ciało.
+
+– Wiem – odpowiedział łagodniej. – Po prostu... to trudne. Słuchać takich historii i wiedząć, że podobne rzeczy dzieją się codziennie. Że ludzie tacy jak Siergiej umierają w więzieniach, że ludzie tacy jak Olga muszą porzucać wszystko i uciekać.
+
+Marta przytaknęła, pozwalając mu mówić. Wyczuwała, że to coś, co Viktor potrzebował z siebie wyrzucić.
+
+– I jednocześnie – kontynuował – mamy tu Stefana, Polaka, gotowego zaryzykować dla Rosjanki. Ciebie, otwierającą dom dla nas wszystkich. François szukającego Amelii. To pokazuje, że mimo wszystkich różnic, wszystkich historycznych zaszłości, wciąż jesteśmy ludźmi, zdolnymi do troski, do współczucia.
+
+– To chyba właśnie to, o czym jest nasz projekt – zauważyła Marta cicho. – O tym, jak wielkie historyczne procesy, jak transformacja, wpływają na zwykłych ludzi. Jak kształtują ich życie, ich wybory, ich relacje.
+
+Viktor spojrzał na nią z nowym rodzajem uznania.
+
+– Masz rację – powiedział. – Może dlatego ten projekt jest tak ważny. Nie tylko dla nauki, dla zrozumienia transformacji, ale dla nas. Dla naszego własnego zrozumienia siebie nawzajem, naszej historii, naszych traum.
+
+Marta poczuła, jak jej serce wypełnia się ciepłem na te słowa. Viktor, zwykle tak zdystansowany, tak ostrożny w wyrażaniu uczuć, nagle otworzył się przed nią w sposób, którego się nie spodziewała.
+
+– Viktor – zaczęła, nie wiedząc dokładnie, co chce powiedzieć, ale czując, że ten moment jest ważny, że nie może go zmarnować.
+
+Viktor spojrzał na nią, a w jego oczach było coś nowego – decyzja, determinacja, pewność.
+
+– Marta – powiedział cicho, pochylając się ku niej. – Myślę, że się w tobie zakochuję.
+
+Zanim zdążyła odpowiedzieć, jego usta znalazły jej usta, a jego dłonie delikatnie ujęły jej twarz. Pocałunek był nieoczekiwany, ale nie niechciany. Marta odpowiedziała na niego całym sercem, całą duszą, wiedząc, że to początek czegoś nowego, czegoś prawdziwego.
+
+Gdy w końcu się od siebie oderwali, oboje byli lekko oszołomieni, jakby nie do końca wierzyli w to, co się właśnie wydarzyło.
+
+– Przepraszam – powiedział Viktor, choć w jego oczach nie było żalu. – Powinienem był zapytać.
+
+– Nie przepraszaj – odpowiedziała Marta z uśmiechem. – Odpowiedziałabym "tak".
+
+Viktor roześmiał się cicho, a w jego śmiechu był rodzaj ulgi, wyzwolenia.
+
+– W takim razie mogę cię pocałować jeszcze raz? – zapytał z figlarnym błyskiem w oku.
+
+– Zdecydowanie tak – odpowiedziała, pochylając się w jego stronę.
+
+Ten drugi pocałunek był dłuższy, głębszy, bardziej pewny. Był potwierdzeniem tego, co rozwijało się między nimi od miesięcy – wzajemnego zrozumienia, szacunku, pragnienia.
+
+Na zewnątrz deszcz w końcu przestał padać, choć woda wciąż stała wysoko na zalanych ulicach. Kraków zaczynał powoli wracać do życia, służby ratunkowe kontynuowały swoją pracę, ludzie pomagali sobie nawzajem w ewakuacji, w sprzątaniu, w ratowaniu tego, co zostało.
+
+A w mieszkaniu Marty, czworo obcych sobie jeszcze niedawno ludzi znalazło coś, czego być może nie spodziewali się znaleźć w ramach projektu badawczego – głębokie, ludzkie połączenie, które przekraczało granice narodowe, kulturowe, historyczne. Połączenie, które było może najważniejszym wynikiem ich badań nad transformacją – dowodem, że mimo wszystkich podziałów, wszystkich różnic w doświadczeniach, ludzie wciąż potrafią się odnaleźć, zrozumieć, pokochać.
+
+#### Między nami a prawdą
+
+François Lefevre siedział przy małym stoliku w schronisku zorganizowanym w szkole na wzgórzu Wawelskim, obserwując Amelię rozmawiającą przez telefon. Była to część budynku zaadaptowana na tymczasowe mieszkania dla ewakuowanych – sala gimnastyczna podzielona na boksy przy pomocy parawanów, z polowymi łóżkami, kocami, podstawowymi udogodnieniami. Nie było to luksusowe zakwaterowanie, ale dawało dach nad głową, bezpieczeństwo, ciepły posiłek.
+
+Amelia wróciła do stolika, odkładając telefon z westchnieniem.
+
+– To była moja asystentka – powiedziała, siadając naprzeciwko François. – Woda w galerii osiągnęła półtora metra wysokości. Wszystkie instalacje elektryczne są zniszczone, podłogi do wymiany, ściany do osuszenia i odmalowania.
+
+– Ubezpieczenie to pokryje? – zapytał François, nalewając jej herbaty z termosu.
+
+Amelia wzruszyła ramionami.
+
+– Częściowo. Ale to potrwa miesiące. A ja mam zaplanowane wystawy, zobowiązania wobec artystów...
+
+François widział, jak bardzo jest zdenerwowana, mimo pozorów spokoju, które starała się zachować. Jej zwykle perfekcyjnie ułożone włosy były w nieładzie, nie miała makijażu, a na jej twarzy malowało się zmęczenie i stres.
+
+A mimo to, nawet w tych okolicznościach, wciąż była piękna. Może nawet bardziej niż zwykle – ta bezbronność, ta naturalność, czyniły ją w jego oczach jeszcze bardziej fascynującą.
+
+– Pomogę ci – powiedział, kładąc dłoń na jej dłoni. – Finansowo, organizacyjnie, jak tylko będziesz potrzebowała.
+
+Amelia spojrzała na niego z wdzięcznością, ale i z cieniem wątpliwości.
+
+– Nie mogę przyjąć od ciebie pieniędzy, François – powiedziała. – To zbyt osobiste, zbyt... zobowiązujące.
+
+– Nie muszą to być moje osobiste pieniądze – wyjaśnił. – Mogę pomóc w znalezieniu grantów, sponsorów, może jakieś francuskie instytucje kulturalne byłyby zainteresowane współpracą...
+
+Amelia uśmiechnęła się lekko.
+
+– Zawsze masz rozwiązanie – zauważyła. – Zawsze wiesz, co powiedzieć.
+
+François nie wiedział, czy to komplement, czy subtelna krytyka. Z Amelią nigdy nie mógł być pewien – była jak książka napisana częściowo w języku, którego nie znał w pełni.
+
+– Nie zawsze – przyznał. – Często czuję, że nie wiem, co powiedzieć. Zwłaszcza tobie.
+
+Amelia spojrzała na niego zaskoczona tą szczerością.
+
+– Dlaczego?
+
+François zawahał się, szukając właściwych słów.
+
+– Bo jesteś... złożona – powiedział w końcu. – Wielowarstwowa. Czasem czuję, że gdy udaje mi się zrozumieć jedną twoją część, odkrywam, że jest jeszcze dziesięć innych, których nie znam.
+
+Amelia milczała przez chwilę, wpatrując się w swoją herbatę.
+
+– To nie jest łatwe, być sobą – powiedziała w końcu cicho. – Autentycznie sobą. Zwłaszcza gdy... gdy spędziłeś całe życie, ukrywając różne części siebie.
+
+– Z powodu historii twojej rodziny? – zapytał ostrożnie.
+
+Przytaknęła.
+
+– Z powodu tego, kim był mój ojciec przed 1989 rokiem. Z powodu tego, jak musieliśmy się adaptować po transformacji. Z powodu tego, jak środowisko artystyczne postrzega religię, tradycję...
+
+François słuchał uważnie, wiedząc, że to rzadki moment otwartości z jej strony.
+
+– Po naszej ostatniej... dyskusji – kontynuowała, nawiązując do ich konfliktu po prezentacji o religii i transformacji – dużo myślałam. O tym, dlaczego tak zareagowałam. O tym, dlaczego ta wystawa, którą zorganizowałam, była tak jednoznacznie krytyczna wobec religii, mimo że ja sama... mimo mojej własnej, skomplikowanej relacji z wiarą.
+
+François czekał cierpliwie, nie chcąc przerywać jej toku myśli.
+
+– I myślę, że to kwestia autentyczności – powiedziała w końcu. – A raczej jej braku. Przez całe życie adaptowałam się do oczekiwań różnych środowisk. W domu byłam dobra# ZWIERCIADŁA
 
 ## Posłowie
 
