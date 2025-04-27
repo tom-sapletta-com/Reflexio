@@ -8,7 +8,7 @@ temp_file=$(mktemp)
 tail -n +4 "Reflexio.md" > "$temp_file"
 # Zastąp oryginalny plik plikiem tymczasowym
 mv "$temp_file" "Reflexio.md"
-md2pdf Reflexio.md Reflexio.pdf
+#python -m venv venv
 source venv/bin/activate
 md2pdf README.md Reflexio.pdf
 # --css-file=md2pdf/style.css --mermaid-options='{"theme":"neutral","securityLevel":"loose"}'
