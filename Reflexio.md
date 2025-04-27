@@ -3658,6 +3658,22 @@ Stefan musiał powstrzymać uśmiech. Więc to dlatego Klaus był dziś taki otw
 
 ## Reflexio,  Posłowie
 
+
+
+
+
+
+
+
+# Posłowie - Reflexio
+
+Reflexio to po łacinie: odbicie, refleksja
+W powieści to ma podwójne znaczenie: fizyczne odbicie i intelektualna refleksja
+- Silny akcent na proces myślowy, przemyślenie
+- Wskazuje na wielowarstwowość doświadczeń
+- Sugeruje psychologiczną głębię powieści
+- Łączy w sobie aspekt fizyczny i mentalny
+
 # Konspekt powieści historyczno-społeczno-psychologicznej "Reflexio" 
 
 **Czas akcji:** Rok 2025 z retrospekcjami sięgającymi lat 80., z kluczowym punktem odniesienia roku 1989
@@ -3801,24 +3817,4 @@ Jednocześnie wprowadza współczesne konteksty roku 2025:
 - Redefinicja europejskiej tożsamości po kryzysach XXI wieku
 
 Powieść łączy elementy powieści psychologicznej (wnikliwa analiza psychiki bohaterów), społecznej (panorama przemian) i historycznej (osadzenie w konkretnych wydarzeniach), tworząc wielowarstwową refleksję nad tym, jak historia kształtuje jednostki i jak jednostki interpretują historię przez pryzmat własnych doświadczeń.
-
-
-
-
-
-
-
-# Posłowie - Reflexio
-
-Reflexio to po łacinie: odbicie, refleksja
-W powieści to ma podwójne znaczenie: fizyczne odbicie i intelektualna refleksja
-- Silny akcent na proces myślowy, przemyślenie
-- Wskazuje na wielowarstwowość doświadczeń
-- Sugeruje psychologiczną głębię powieści
-- Łączy w sobie aspekt fizyczny i mentalny
-
----
-
-Tom Sapletta  
-Frankfurt, 2025
 

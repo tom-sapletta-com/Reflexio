@@ -2,4 +2,6 @@
 
 ---
 
-Reflexio, Tom Sapletta, Frankfurt 2025
+tytuł: REFLEXIO
+autor: Tom Sapletta
+miejsce i czas: Frankfurt 2025
