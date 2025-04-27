@@ -2,12 +2,7 @@
 ./flatedit
 cp README.md Reflexio.md
 # Usuń 3 pierwsze linijki i zapisz do pliku tymczasowego
-# Utwórz tymczasowy plik
-temp_file=$(mktemp)
-# Usuń 3 pierwsze linijki i zapisz do pliku tymczasowego
-tail -n +4 "Reflexio.md" > "$temp_file"
-# Zastąp oryginalny plik plikiem tymczasowym
-mv "$temp_file" "Reflexio.md"
+
 #python -m venv venv
 source venv/bin/activate
 #md2pdf README.md Reflexio.pdf
