@@ -4,7 +4,7 @@ import html2text
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_LEFT
@@ -13,6 +13,7 @@ from reportlab.lib.fonts import ps2tt, addMapping
 
 def find_font(font_name):
     # List of possible font paths for Fedora and other systems
+    import glob
     font_paths = [
         f'/usr/share/fonts/dejavu-sans-fonts/{font_name}.ttf',
         f'/usr/share/fonts/dejavu-sans-fonts/{font_name}*.ttf',
@@ -30,8 +31,6 @@ def find_font(font_name):
 
 
 def setup_polish_fonts():
-    import glob
-
     try:
         # Explicitly use the full paths we found earlier
         dejavu_sans = '/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf'
@@ -100,6 +99,9 @@ def md_to_pdf(md_file, pdf_file):
     story = []
 
     # Split text into lines and create paragraphs
+    current_section = []
+    last_header_level = 0
+
     for line in plain_text.split('\n'):
         # Skip empty lines
         if line.strip():
@@ -107,20 +109,33 @@ def md_to_pdf(md_file, pdf_file):
             if line.startswith('#'):
                 header_level = line.count('#')
                 header_text = line.lstrip('#').strip()
+
+                # If we're starting a new H1 or H2, add a page break
+                if header_level <= 2 and current_section:
+                    story.extend(current_section)
+                    story.append(PageBreak())
+                    current_section = []
+
+                # Select appropriate heading style
                 if header_level == 1:
-                    story.append(Paragraph(header_text, styles['Heading1']))
+                    paragraph = Paragraph(header_text, styles['Heading1'])
                 elif header_level == 2:
-                    story.append(Paragraph(header_text, styles['Heading2']))
+                    paragraph = Paragraph(header_text, styles['Heading2'])
                 elif header_level == 3:
-                    story.append(Paragraph(header_text, styles['Heading3']))
+                    paragraph = Paragraph(header_text, styles['Heading3'])
                 else:
-                    story.append(Paragraph(header_text, styles['Heading4']))
+                    paragraph = Paragraph(header_text, styles['Heading4'])
+
+                current_section.append(paragraph)
+                current_section.append(Spacer(1, 12))
             else:
                 # Regular paragraph
-                story.append(Paragraph(line, custom_style))
+                current_section.append(Paragraph(line, custom_style))
+                current_section.append(Spacer(1, 6))
 
-            # Add some space between paragraphs
-            story.append(Spacer(1, 6))
+    # Add the last section
+    if current_section:
+        story.extend(current_section)
 
     # Build PDF
     doc.build(story)
