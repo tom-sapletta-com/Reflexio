@@ -6,11 +6,12 @@ from markdown.preprocessors import Preprocessor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Image
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_LEFT, TA_CENTER
 from reportlab.platypus.flowables import Flowable
+from PIL import Image as PILImage
 
 
 class HorizontalLine(Flowable):
@@ -27,7 +28,7 @@ class HorizontalLine(Flowable):
         self.canv.line(0, 0, self.width, 0)
 
 
-def md_to_pdf(md_file, pdf_file):
+def md_to_pdf(md_file, pdf_file, cover_image=None):
     # Setup Polish fonts
     def setup_polish_fonts():
         try:
@@ -61,7 +62,7 @@ def md_to_pdf(md_file, pdf_file):
     # Create PDF
     doc = SimpleDocTemplate(pdf_file, pagesize=letter,
                             rightMargin=inch, leftMargin=inch,
-                            topMargin=inch, bottomMargin=inch)
+                            topMargin=0.5 * inch, bottomMargin=0.5 * inch)
 
     # Prepare styles
     styles = getSampleStyleSheet()
@@ -90,15 +91,36 @@ def md_to_pdf(md_file, pdf_file):
     # Prepare story
     story = []
 
-    # Custom parsing of HTML
-    import re
-    from xml.sax.saxutils import unescape
+    # Add cover image if provided
+    if cover_image and os.path.exists(cover_image):
+        try:
+            # Open the image and get its original dimensions
+            pil_img = PILImage.open(cover_image)
+            orig_width, orig_height = pil_img.size
+            print(f"Original image dimensions: {orig_width} x {orig_height}")
+
+            # Calculate maximum dimensions (slightly smaller than page)
+            max_width = letter[0] - 2 * inch  # Page width minus margins
+            max_height = letter[1] - 2 * inch  # Page height minus margins
+            print(f"Max allowed dimensions: {max_width} x {max_height}")
+
+            # Create scaled image for PDF
+            img = Image(cover_image, width=max_width, height=max_height, kind='proportional')
+            img.hAlign = 'CENTER'
+            img.vAlign = 'TOP'
+
+            story.append(img)
+            story.append(Spacer(1, 12))
+
+        except Exception as e:
+            print(f"Error processing cover image: {e}")
 
     # Remove HTML tags and unescape entities
     def clean_text(html_text):
         # Remove HTML tags
         clean = re.sub('<.*?>', '', html_text)
         # Unescape HTML entities
+        from xml.sax.saxutils import unescape
         clean = unescape(clean)
         return clean.strip()
 
@@ -151,5 +173,5 @@ def md_to_pdf(md_file, pdf_file):
 
 # Run the conversion
 if __name__ == '__main__':
-    md_to_pdf('README.md', 'Reflexio.pdf')
+    md_to_pdf('README.md', 'Reflexio.pdf', cover_image='okladka.png')
     print("PDF conversion completed successfully!")

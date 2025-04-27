@@ -8,3 +8,4 @@ weasyprint
 markdown
 reportlab
 html2text
+Pillow
