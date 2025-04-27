@@ -3808,11 +3808,10 @@ Powieść łączy elementy powieści psychologicznej (wnikliwa analiza psychiki 
 
 
 
-# Posłowie _- Reflexio
+# Posłowie - Reflexio
 
-Reflexio (odbicie, refleksja):
-
-- Podwójne znaczenie: fizyczne odbicie i intelektualna refleksja
+Reflexio to po łacinie: odbicie, refleksja
+W powieści to ma podwójne znaczenie: fizyczne odbicie i intelektualna refleksja
 - Silny akcent na proces myślowy, przemyślenie
 - Wskazuje na wielowarstwowość doświadczeń
 - Sugeruje psychologiczną głębię powieści

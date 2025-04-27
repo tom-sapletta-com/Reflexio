@@ -23,4 +23,4 @@
 + [6 ## Reflexio,  Posłowie](file:///home/tom/github/tom-sapletta-com/Reflexio/6/index.html)
 + [6 ](file:///home/tom/github/tom-sapletta-com/Reflexio/6/index.html)
 + [#6 ](file:///home/tom/github/tom-sapletta-com/Reflexio/#6/index.html)
-+ [6 # Posłowie _- Reflexio](file:///home/tom/github/tom-sapletta-com/Reflexio/6/index.html)
++ [6 # Posłowie - Reflexio](file:///home/tom/github/tom-sapletta-com/Reflexio/6/index.html)

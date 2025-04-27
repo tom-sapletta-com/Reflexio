@@ -23,4 +23,4 @@
 + [6 ## Reflexio,  Posłowie](http://github.com/6)
 + [6 ](http://github.com/6)
 + [#6 ](http://github.com/#6)
-+ [6 # Posłowie _- Reflexio](http://github.com/6)
++ [6 # Posłowie - Reflexio](http://github.com/6)
