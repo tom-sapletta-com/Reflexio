@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.5] - 2025-04-27
+
+### Added
+- Changes in 4/10.md
+- Changes in 4/11.md
+- Changes in 5/0.md
+- Changes in 5/12.md
+- Changes in 5/13.md
+- Changes in 5/14.md
+- Changes in 5/15.md
+- Changes in 6/0.md
+- Changes in 6/EPILOG.md
+- Changes in 6/okladka.md
+- Changes in 6/poslowie.md
+
 ## [0.1.4] - 2025-04-27
 
 ### Added

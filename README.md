@@ -1855,7 +1855,7 @@ Olga zamarła. Pawieł był przyjacielem Siergieja ze studiów, który wyemigrow
 
 – Że muszę to przemyśleć – Siergiej wzruszył ramionami. – Że muszę z tobą porozmawiać.
 
-Olga usiadła przy stole, czując, jak nogi się pod nią uginają.# ZWIERCIADŁA
+Olga usiadła przy stole, czując, jak nogi się pod nią uginają.
 
 # Reflexio
 
@@ -3359,27 +3359,17 @@ François czekał cierpliwie, nie chcąc przerywać jej toku myśli.
 
 – I myślę, że to kwestia autentyczności – powiedziała w końcu. – A raczej jej braku. Przez całe życie adaptowałam się do oczekiwań różnych środowisk. W domu byłam dobra# ZWIERCIADŁA
 
-## Posłowie
+# Reflexio
 
-
-## Okładka książki zatytułowanej "Reflexio":
-
+Tom Sapletta
 ---
+*Frankfurt, 2025*
 
-Reflexio, Tom Sapletta, Frankfurt 2025
+## CZĘŚĆ IV: PRZEMIANY WEWNĘTRZNE (2025)
 
-# Posłowie _- Reflexio
 
-Reflexio (odbicie, refleksja):
 
-- Podwójne znaczenie: fizyczne odbicie i intelektualna refleksja
-- Silny akcent na proces myślowy, przemyślenie
-- Wskazuje na wielowarstwowość doświadczeń
-- Sugeruje psychologiczną głębię powieści
-- Łączy w sobie aspekt fizyczny i mentalny
 
----
 
-Tom Sapletta  
-Frankfurt, 2025
+
 
