@@ -9,6 +9,12 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+## Install in system
+```
+pip install markdown html2text reportlab
+sudo apt-get install fonts-dejavu  # For Debian/Ubuntu
+```
+
 ## As a CLI
 
 ```

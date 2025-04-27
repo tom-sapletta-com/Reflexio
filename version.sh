@@ -10,7 +10,9 @@ tail -n +4 "Reflexio.md" > "$temp_file"
 mv "$temp_file" "Reflexio.md"
 #python -m venv venv
 source venv/bin/activate
-md2pdf README.md Reflexio.pdf
+#md2pdf README.md Reflexio.pdf
+#pandoc README.md -o Reflexio.pdf
+python update_pdf.py
 # --css-file=md2pdf/style.css --mermaid-options='{"theme":"neutral","securityLevel":"loose"}'
 python changelog.py
 bash git.sh
