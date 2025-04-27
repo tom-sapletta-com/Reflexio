@@ -1,6 +1,3 @@
-
-# Reflexio
-
 Tom Sapletta
 
 ---

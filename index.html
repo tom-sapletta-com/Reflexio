@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reflexio - Tom Sapletta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="audioplayer/AudioPlayer.js"></script>
+</head>
+<body>
+<div class="particle-container" id="particles"></div>
+<div class="overlay" id="overlay"></div>
+
+<header>
+    <div class="site-title">Reflexio</div>
+    <button class="audio-button" id="audioButton">
+        <i class="fas fa-headphones"></i>
+    </button>
+    <div class="menu-toggle" id="menuToggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</header>
+
+<div class="cover-section">
+    <div class="cover-container">
+        <img src="okladka.png" alt="Okładka książki Reflexio" class="cover-img">
+    </div>
+    <h1 class="book-title">Reflexio</h1>
+    <div class="book-authors">Tom Sapletta</div>
+
+    <div class="audiobook-info">
+        <p>Audiobook dostępny w dwóch częściach:</p>
+        <div class="audiobook-parts">
+            <div class="part">
+                <div class="part-title">Audio - Część I</div>
+                <a href="Reflexioa.mp3" class="download-btn" download>
+                    <i class="fas fa-download"></i> Pobierz MP3
+                </a>
+            </div>
+            <!--            <div class="part">-->
+            <!--                <div class="part-title">Część II: Świt Świadomości</div>-->
+            <!--                <a href="Reflexiob.mp3" class="download-btn" download>-->
+            <!--                    <i class="fas fa-download"></i> nie dostępna-->
+            <!--                </a>-->
+            <!--            </div>-->
+            <div class="part">
+                <div class="part-title">Ebook - Część I i II</div>
+                <a href="Reflexio.pdf" class="download-btn" download>
+                    <i class="fas fa-download"></i> Pobierz PDF
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="">
+        <div class="">
+            <a href="code/index.html" class="download-btn">
+                <i class="fas fa-deploy"></i> Uruchom symulację
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="book-content" class="book-content">
+    <div class="loading-message">Ładowanie treści książki...</div>
+</div>
+
+<div class="audio-player" id="audioPlayer">
+    <div class="player-info">
+        <i class="fas fa-headphones"></i> Reflexio
+    </div>
+    <div class="player-controls">
+        <div class="part-selector">
+            <button class="part-btn active" data-part="1">Część I</button>
+            <button class="part-btn" data-part="2">Część II</button>
+        </div>
+        <audio id="audiobook-player" controls>
+            <source src="Reflexioa.mp3" type="audio/mpeg" id="audio-source-part1">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </div>
+    <button class="close-player" id="closePlayer">
+        <i class="fas fa-times"></i>
+    </button>
+</div>
+
+<div class="chapter-menu" id="chapterMenu">
+    <h2 class="chapter-title">Spis rozdziałów</h2>
+    <ul class="chapters" id="chaptersList">
+        <!-- Lista rozdziałów będzie aktualizowana dynamicznie -->
+    </ul>
+</div>
+
+<script>
+
+    // Funkcja do konwersji Markdown na HTML
+    function markdownToHtml(markdown) {
+        let html = markdown;
+
+        // Obsługa linii poziomych (---, ___, ***)
+        html = html.replace(/^(\-{3,}|\_{3,}|\*{3,})$/gm, '<hr>');
+
+        // Obsługa tabel
+        // Najpierw znajdujemy wszystkie tabele w markdown
+        const tableRegex = /\|(.+)\|\s*\n\|[-|:]+\|\s*\n(\|.+\|\s*\n)+/g;
+        const tables = html.match(tableRegex);
+
+        if (tables) {
+            tables.forEach(table => {
+                // Konwertuj tabelę na HTML
+                const rows = table.split('\n').filter(row => row.trim() !== '');
+                let tableHtml = '<div class="table-container"><table>';
+
+                // Dodaj nagłówek tabeli
+                const headerRow = rows[0];
+                const headerCells = headerRow.split('|').filter(cell => cell.trim() !== '');
+                tableHtml += '<thead><tr>';
+                headerCells.forEach(cell => {
+                    tableHtml += `<th>${cell.trim()}</th>`;
+                });
+                tableHtml += '</tr></thead>';
+
+                // Pomiń wiersz nagłówka i separatora
+                tableHtml += '<tbody>';
+                for (let i = 2; i < rows.length; i++) {
+                    const row = rows[i];
+                    const cells = row.split('|').filter(cell => cell.trim() !== '');
+                    tableHtml += '<tr>';
+                    cells.forEach(cell => {
+                        tableHtml += `<td>${cell.trim()}</td>`;
+                    });
+                    tableHtml += '</tr>';
+                }
+                tableHtml += '</tbody></table></div>';
+
+                // Zamień tabelę w markdown na HTML
+                html = html.replace(table, tableHtml);
+            });
+        }
+
+        // Obsługa nagłówków - musi być przed pozostałymi elementami
+        html = html
+            .replace(/^# (.*$)/gm, '<h1>$1</h1>')
+            .replace(/^## (.*$)/gm, '<h2>$1</h2>')
+            .replace(/^### (.*$)/gm, '<h3>$1</h3>')
+            .replace(/^#### (.*$)/gm, '<h4>$1</h4>')
+            .replace(/^##### (.*$)/gm, '<h5>$1</h5>')
+            .replace(/^###### (.*$)/gm, '<h6>$1</h6>');
+
+        // Pozostałe elementy Markdown
+        return html
+            // Bold
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            // Italic
+            .replace(/\*(.*?)\*/g, '<em>$1</em>')
+            // Lists
+            .replace(/^\- (.*$)/gm, '<li>$1</li>')
+            .replace(/<\/li>\n<li>/g, '</li><li>')
+            .replace(/<li>(.*)<\/li>/gm, '<ul><li>$1</li></ul>')
+            .replace(/<\/ul>\n<ul>/g, '')
+            // Numbered lists
+            .replace(/^\d+\. (.*$)/gm, '<li>$1</li>')
+            .replace(/<\/li>\n<li>/g, '</li><li>')
+            .replace(/<li>(.*)<\/li>/gm, '<ol><li>$1</li></ol>')
+            .replace(/<\/ol>\n<ol>/g, '')
+            // Blockquotes
+            .replace(/^\> (.*$)/gm, '<blockquote>$1</blockquote>')
+            // Paragraphs (dodajemy zabezpieczenie przed zamianą już zamienionego HTML)
+            .replace(/\n\n([^<#\-\*\>\d].*)/gm, '<p>$1</p>')
+            // Fix multiple paragraph tags
+            .replace(/<\/p><p>/g, '</p>\n<p>');
+    }
+
+    // Function to handle markdown image rendering
+    function renderMarkdownImages(html) {
+        // Regex to find markdown image syntax
+        const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)/g;
+
+        return html.replace(imageRegex, (match, altText, src) => {
+            // Ensure the image src is relative to the current directory
+            const fullSrc = src.startsWith('http') ? src : src;
+
+            return `<img src="${fullSrc}" alt="${altText}" class="content-image">`;
+        });
+    }
+
+    // Funkcja do ładowania pliku Markdown
+    async function loadMarkdownFile(filePath) {
+        try {
+            const response = await fetch(filePath);
+            if (!response.ok) {
+                throw new Error(`Nie udało się załadować pliku: ${response.status}`);
+            }
+            let markdown = await response.text();
+
+            // Convert markdown to HTML
+            let htmlContent = markdownToHtml(markdown);
+
+            // Render images
+            htmlContent = renderMarkdownImages(htmlContent);
+
+            return htmlContent;
+        } catch (error) {
+            console.error('Błąd ładowania pliku Markdown:', error);
+            return '# Błąd ładowania treści\n\nNie udało się załadować pliku Reflexio.md. Sprawdź, czy plik istnieje w katalogu.';
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        // Dodajestyle dla obrazów
+        const imageStyles = `
+            <style>
+            .content-image {
+                max-width: 100%;
+                height: auto;
+                display: block;
+                margin: 20px auto;
+                border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            }
+            </style>
+            `;
+        document.head.insertAdjacentHTML('beforeend', imageStyles);
+
+        // Reszta poprzedniego kodu pozostaje bez zmian...
+        const audioPlayer = document.getElementById('audiobook-player');
+        const audioPlayerContainer = document.getElementById('audioPlayer');
+        const bookContent = document.getElementById('book-content');
+        const chapterMenu = document.getElementById('chapterMenu');
+        const menuToggle = document.getElementById('menuToggle');
+        const overlay = document.getElementById('overlay');
+        const audioButton = document.getElementById('audioButton');
+        const closePlayer = document.getElementById('closePlayer');
+
+        // Ładowanie treści książki z pliku Markdown
+        loadMarkdownFile('Reflexio.md')
+            .then(htmlContent => {
+                bookContent.innerHTML = htmlContent;
+            })
+            .catch(error => {
+                bookContent.innerHTML = `<div class="error-message">
+                        <h3>Błąd ładowania treści</h3>
+                        <p>${error.message}</p>
+                        <p>Sprawdź, czy plik Reflexio.md istnieje w katalogu.</p>
+                    </div>`;
+            });
+
+        // Menu rozdziałów
+        menuToggle.addEventListener('click', function () {
+            chapterMenu.classList.toggle('active');
+            overlay.classList.toggle('active');
+
+            // Animacja ikon menu (hamburger -> X)
+            this.classList.toggle('active');
+
+            const spans = this.querySelectorAll('span');
+            if (this.classList.contains('active')) {
+                spans[0].style.transform = 'rotate(45deg) translate(5px, 5px)';
+                spans[1].style.opacity = '0';
+                spans[2].style.transform = 'rotate(-45deg) translate(7px, -6px)';
+            } else {
+                spans[0].style.transform = 'none';
+                spans[1].style.opacity = '1';
+                spans[2].style.transform = 'none';
+            }
+        });
+
+        overlay.addEventListener('click', function () {
+            chapterMenu.classList.remove('active');
+            overlay.classList.remove('active');
+            menuToggle.classList.remove('active');
+
+            const spans = menuToggle.querySelectorAll('span');
+            spans[0].style.transform = 'none';
+            spans[1].style.opacity = '1';
+            spans[2].style.transform = 'none';
+        });
+
+        // Audio player
+        audioButton.addEventListener('click', function () {
+            audioPlayerContainer.classList.add('active');
+        });
+
+        closePlayer.addEventListener('click', function () {
+            audioPlayerContainer.classList.remove('active');
+        });
+
+        // Inicjalizacja listy rozdziałów
+        updateChaptersList('1');
+
+        // Create floating particles
+        const particleContainer = document.getElementById('particles');
+        const particleCount = 30;
+
+        for (let i = 0; i < particleCount; i++) {
+            createParticle();
+        }
+
+        function createParticle() {
+            const particle = document.createElement('div');
+            particle.classList.add('particle');
+
+            // Random styling
+            const size = Math.random() * 5 + 1;
+            const posX = Math.random() * 100;
+            const delay = Math.random() * 10;
+            const duration = Math.random() * 10 + 10;
+            const opacity = Math.random() * 0.6 + 0.2;
+
+            particle.style.width = `${size}px`;
+            particle.style.height = `${size}px`;
+            particle.style.left = `${posX}%`;
+            particle.style.bottom = `-${size}px`;
+            particle.style.opacity = opacity;
+            particle.style.animationDuration = `${duration}s`;
+            particle.style.animationDelay = `${delay}s`;
+
+            particleContainer.appendChild(particle);
+
+            // Remove and recreate particle after animation ends
+            setTimeout(() => {
+                particle.remove();
+                createParticle();
+            }, (delay + duration) * 1000);
+        }
+
+        // Obsługa przełączania części audiobooka
+        const partButtons = document.querySelectorAll('.part-btn');
+
+        partButtons.forEach(button => {
+            button.addEventListener('click', function () {
+                // Aktywacja przycisku
+                partButtons.forEach(btn => btn.classList.remove('active'));
+                this.classList.add('active');
+
+                // Zapamiętanie aktualnej pozycji odtwarzania i stanu
+                const wasPlaying = !audioPlayer.paused;
+
+                // Zmiana źródła audio
+                const part = this.getAttribute('data-part');
+                const audioSource = document.getElementById('audio-source-part1');
+
+                if (part === '1') {
+                    audioSource.src = 'Reflexioa.mp3';
+                } else {
+                    audioSource.src = 'Reflexiob.mp3';
+                }
+
+                // Przeładowanie audio
+                audioPlayer.load();
+
+                // Jeśli audio było odtwarzane, kontynuuj odtwarzanie
+                audioPlayer.addEventListener('loadedmetadata', function onceLoaded() {
+                    if (wasPlaying) {
+                        audioPlayer.play();
+                    }
+                    audioPlayer.removeEventListener('loadedmetadata', onceLoaded);
+                });
+
+                // Aktualizacja spisu rozdziałów
+                updateChaptersList(part);
+            });
+        });
+
+        // Funkcja aktualizująca spis rozdziałów w zależności od części
+        function updateChaptersList(part) {
+            const chaptersList = document.getElementById('chaptersList');
+
+            if (part === '1') {
+                chaptersList.innerHTML = `
+                        <li data-time="0">Wstęp: Idea dystopii "Zmierzch Stref"</li>
+                        <li data-time="300">Rozdział 1: Granice Świadomości</li>
+                        <li data-time="600">Rozdział 2: Kod Przebudzenia</li>
+                        <li data-time="900">Rozdział 3: Cienie Władzy</li>
+                        <li data-time="1200">Rozdział 4: Labirynt Kłamstw</li>
+                        <li data-time="1500">Rozdział 5: Algorytm Przeznaczenia</li>
+                        <li data-time="1800">Rozdział 6: Echo Prawdy</li>
+                        <li data-time="2100">Rozdział 7: Lustro Dusz</li>
+                        <li data-time="2400">Rozdział 8: Granica Realności</li>
+                        <li data-time="2700">Rozdział 9: Pęknięcie Iluzji</li>
+                        <li data-time="3000">Rozdział 10: Punkt Zbieżności</li>
+                        <li data-time="3300">Rozdział 11: Reset</li>
+                    `;
+            } else {
+                chaptersList.innerHTML = `
+                        <li data-time="0">Rozdział 1: Nowy Porządek</li>
+                        <li data-time="300">Rozdział 2: Akademia Poznania</li>
+                        <li data-time="600">Rozdział 3: Ukierunkowanie Zmian</li>
+                        <li data-time="900">Rozdział 4: Pierwsze Połączenie</li>
+                        <li data-time="1200">Rozdział 5: Sceptyk</li>
+                        <li data-time="1500">Rozdział 6: Fale Zmian</li>
+                        <li data-time="1800">Rozdział 7: Architektura Świadomości</li>
+                        <li data-time="2100">Rozdział 8: Pierwsze Fale</li>
+                        <li data-time="2400">Rozdział 9: Przebudzenie</li>
+                        <li data-time="2700">Rozdział 10: Rekursja Stworzenia</li>
+                        <li data-time="3000">Epilog: Świt Nowego Wszechświata</li>
+                    `;
+            }
+
+            // Ponowne dodanie obsługi kliknięć dla nowych elementów listy
+            const newChapters = document.querySelectorAll('#chaptersList li');
+            newChapters.forEach(chapter => {
+                chapter.addEventListener('click', function () {
+                    const timePosition = this.getAttribute('data-time');
+                    if (audioPlayer.readyState) {
+                        audioPlayer.currentTime = timePosition;
+                        audioPlayer.play();
+                        audioPlayerContainer.classList.add('active');
+                        chapterMenu.classList.remove('active');
+                        overlay.classList.remove('active');
+                        menuToggle.classList.remove('active');
+
+                        const spans = menuToggle.querySelectorAll('span');
+                        spans[0].style.transform = 'none';
+                        spans[1].style.opacity = '1';
+                        spans[2].style.transform = 'none';
+                    } else {
+                        alert('Plik audio nie jest jeszcze gotowy. Poczekaj chwilę i spróbuj ponownie.');
+                    }
+                });
+            });
+        }
+    });
+</script>
+</body>
+</html>
